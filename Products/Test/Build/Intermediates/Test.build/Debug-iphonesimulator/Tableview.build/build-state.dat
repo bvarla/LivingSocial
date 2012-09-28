@@ -1,0 +1,651 @@
+TTableview
+v5
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/sravanreddy29/Desktop/LivingSocial/Products/Test/Build/Products/Debug-iphonesimulator/Tableview.app/Info.plist Test/Test-Info.plist
+cProcessPCH /Users/sravanreddy29/Desktop/LivingSocial/Products/Test/Build/Intermediates/PrecompiledHeaders/Test-Prefix-gccizeiqonqmlbfmpmjxfxhrdama/Test-Prefix.pch.pth Test/Test-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Products/Test/Build/Intermediates/Test.build/Debug-iphonesimulator/Tableview.build/Objects-normal/i386/AppDelegate.o /Users/sravanreddy29/Desktop/LivingSocial/Test/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Products/Test/Build/Intermediates/Test.build/Debug-iphonesimulator/Tableview.build/Objects-normal/i386/main.o /Users/sravanreddy29/Desktop/LivingSocial/Test/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Products/Test/Build/Intermediates/Test.build/Debug-iphonesimulator/Tableview.build/Objects-normal/i386/ViewController.o /Users/sravanreddy29/Desktop/LivingSocial/Test/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Products/Test/Build/Intermediates/Test.build/Debug-iphonesimulator/Tableview.build/Objects-normal/i386/MyCustomcell.o /Users/sravanreddy29/Desktop/LivingSocial/Test/MyCustomcell.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/sravanreddy29/Desktop/LivingSocial/Products/Test/Build/Products/Debug-iphonesimulator/Tableview.app/Tableview normal i386
+cGenerateDSYMFile /Users/sravanreddy29/Desktop/LivingSocial/Products/Test/Build/Products/Debug-iphonesimulator/Tableview.app.dSYM /Users/sravanreddy29/Desktop/LivingSocial/Products/Test/Build/Products/Debug-iphonesimulator/Tableview.app/Tableview
+cCopyStringsFile /Users/sravanreddy29/Desktop/LivingSocial/Products/Test/Build/Products/Debug-iphonesimulator/Tableview.app/en.lproj/InfoPlist.strings Test/en.lproj/InfoPlist.strings
+cCompileXIB /Users/sravanreddy29/Desktop/LivingSocial/Test/en.lproj/ViewController.xib
+cCompileXIB /Users/sravanreddy29/Desktop/LivingSocial/Test/MyCustomcell.xib
+cCpResource test.png Products/Test/Build/Products/Debug-iphonesimulator/Tableview.app/test.png
+cCpResource Test/no.gif Products/Test/Build/Products/Debug-iphonesimulator/Tableview.app/no.gif
+cTouch /Users/sravanreddy29/Desktop/LivingSocial/Products/Test/Build/Products/Debug-iphonesimulator/Tableview.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk
+c000000004F453DF80000000000000110
+t1329937912
+s272
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004FD4C0F40000000000244490
+t1339343092
+s2376848
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004FD4C0F40000000000353830
+t1339343092
+s3487792
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004FD4C0F90000000000905E40
+t1339343097
+s9461312
+
+N/Users/sravanreddy29/Desktop/LivingSocial/Products/Test/Build/Intermediates/PrecompiledHeaders/Test-Prefix-aancvdfrypbkckcrjpwqsvpnndna/Test-Prefix.pch.pth
+t1348869484
+s4048188
+
+N/Users/sravanreddy29/Desktop/LivingSocial/Products/Test/Build/Intermediates/PrecompiledHeaders/Test-Prefix-gccizeiqonqmlbfmpmjxfxhrdama/Test-Prefix.pch.pth
+t1348869478
+s4048188
+
+N/Users/sravanreddy29/Desktop/LivingSocial/Products/Test/Build/Intermediates/Test.build/Debug-iphonesimulator/Tableview.build/Objects-normal/i386/AppDelegate.o
+t1348869478
+s62796
+
+N/Users/sravanreddy29/Desktop/LivingSocial/Products/Test/Build/Intermediates/Test.build/Debug-iphonesimulator/Tableview.build/Objects-normal/i386/MyCustomcell.o
+t1348869478
+s54080
+
+N/Users/sravanreddy29/Desktop/LivingSocial/Products/Test/Build/Intermediates/Test.build/Debug-iphonesimulator/Tableview.build/Objects-normal/i386/Tableview.LinkFileList
+c0000000050661D660000000000000279
+t1348869478
+s633
+
+N/Users/sravanreddy29/Desktop/LivingSocial/Products/Test/Build/Intermediates/Test.build/Debug-iphonesimulator/Tableview.build/Objects-normal/i386/ViewController.o
+t1348869666
+s82612
+
+N/Users/sravanreddy29/Desktop/LivingSocial/Products/Test/Build/Intermediates/Test.build/Debug-iphonesimulator/Tableview.build/Objects-normal/i386/main.o
+t1348869478
+s3340
+
+N/Users/sravanreddy29/Desktop/LivingSocial/Products/Test/Build/Intermediates/Test.build/Debug-iphonesimulator/Tableview.build/StaticAnalyzer/normal/i386/AppDelegate.plist
+t1348869484
+s276
+
+N/Users/sravanreddy29/Desktop/LivingSocial/Products/Test/Build/Intermediates/Test.build/Debug-iphonesimulator/Tableview.build/StaticAnalyzer/normal/i386/MyCustomcell.plist
+t1348869484
+s276
+
+N/Users/sravanreddy29/Desktop/LivingSocial/Products/Test/Build/Intermediates/Test.build/Debug-iphonesimulator/Tableview.build/StaticAnalyzer/normal/i386/ViewController.plist
+t1348869484
+s276
+
+N/Users/sravanreddy29/Desktop/LivingSocial/Products/Test/Build/Intermediates/Test.build/Debug-iphonesimulator/Tableview.build/StaticAnalyzer/normal/i386/main.plist
+t1348869484
+s276
+
+N/Users/sravanreddy29/Desktop/LivingSocial/Products/Test/Build/Products/Debug-iphonesimulator/Tableview.app
+t1348869667
+s306
+
+N/Users/sravanreddy29/Desktop/LivingSocial/Products/Test/Build/Products/Debug-iphonesimulator/Tableview.app.dSYM
+t1348869667
+s102
+
+N/Users/sravanreddy29/Desktop/LivingSocial/Products/Test/Build/Products/Debug-iphonesimulator/Tableview.app/Info.plist
+t1348868940
+s884
+
+N/Users/sravanreddy29/Desktop/LivingSocial/Products/Test/Build/Products/Debug-iphonesimulator/Tableview.app/MyCustomcell.nib
+t1348868953
+s2260
+
+N/Users/sravanreddy29/Desktop/LivingSocial/Products/Test/Build/Products/Debug-iphonesimulator/Tableview.app/PkgInfo
+t1348868940
+s8
+
+N/Users/sravanreddy29/Desktop/LivingSocial/Products/Test/Build/Products/Debug-iphonesimulator/Tableview.app/Tableview
+t1348869667
+s55964
+
+N/Users/sravanreddy29/Desktop/LivingSocial/Products/Test/Build/Products/Debug-iphonesimulator/Tableview.app/en.lproj/InfoPlist.strings
+t1348868953
+s42
+
+N/Users/sravanreddy29/Desktop/LivingSocial/Products/Test/Build/Products/Debug-iphonesimulator/Tableview.app/en.lproj/ViewController.nib
+t1348868953
+s1334
+
+N/Users/sravanreddy29/Desktop/LivingSocial/Products/Test/Build/Products/Debug-iphonesimulator/Tableview.app/no.gif
+t1348868953
+s3895
+
+N/Users/sravanreddy29/Desktop/LivingSocial/Products/Test/Build/Products/Debug-iphonesimulator/Tableview.app/test.png
+t1348868953
+s13130
+
+N/Users/sravanreddy29/Desktop/LivingSocial/Test/AppDelegate.h
+c00000000506330F50000000000000170
+t1348677877
+s368
+
+N/Users/sravanreddy29/Desktop/LivingSocial/Test/AppDelegate.m
+c00000000506330F50000000000000950
+t1348677877
+s2384
+
+N/Users/sravanreddy29/Desktop/LivingSocial/Test/MyCustomcell.h
+c000000005064ACB20000000000000244
+t1348775090
+s580
+
+N/Users/sravanreddy29/Desktop/LivingSocial/Test/MyCustomcell.m
+c000000005064ACB200000000000003F3
+t1348775090
+s1011
+
+N/Users/sravanreddy29/Desktop/LivingSocial/Test/MyCustomcell.xib
+c000000005065E3250000000000004034
+t1348854565
+s16436
+
+N/Users/sravanreddy29/Desktop/LivingSocial/Test/Test-Prefix.pch
+c00000000506330F50000000000000137
+t1348677877
+s311
+
+N/Users/sravanreddy29/Desktop/LivingSocial/Test/ViewController.h
+c00000000506616DB00000000000003CF
+t1348867803
+s975
+
+N/Users/sravanreddy29/Desktop/LivingSocial/Test/ViewController.m
+c0000000050661E4700000000000013D6
+t1348869703
+s5078
+
+N/Users/sravanreddy29/Desktop/LivingSocial/Test/en.lproj/InfoPlist.strings
+c00000000506330F5000000000000002D
+t1348677877
+s45
+
+N/Users/sravanreddy29/Desktop/LivingSocial/Test/en.lproj/ViewController.xib
+c000000005065B233000000000000266C
+t1348842035
+s9836
+
+N/Users/sravanreddy29/Desktop/LivingSocial/Test/main.m
+c00000000506330F50000000000000154
+t1348677877
+s340
+
+N/Users/sravanreddy29/Desktop/LivingSocial/Test/no.gif
+c000000005065DE6E0000000000000F37
+t1348853358
+s3895
+
+N/Users/sravanreddy29/Desktop/LivingSocial/test.png
+c000000005066179D000000000000334A
+t1348867997
+s13130
+
+N/Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Build/Intermediates/PrecompiledHeaders/Test-Prefix-eutbgocbycasxddoqtiasmpkncct/Test-Prefix.pch.pth
+t1348868948
+s4048232
+
+N/Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Build/Intermediates/Test.build/Debug-iphonesimulator/Tableview.build/Objects-normal/i386/AppDelegate.o
+t1348868950
+s62812
+
+N/Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Build/Intermediates/Test.build/Debug-iphonesimulator/Tableview.build/Objects-normal/i386/MyCustomcell.o
+t1348868950
+s54096
+
+N/Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Build/Intermediates/Test.build/Debug-iphonesimulator/Tableview.build/Objects-normal/i386/Tableview.LinkFileList
+c0000000050661B4C000000000000028D
+t1348868940
+s653
+
+N/Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Build/Intermediates/Test.build/Debug-iphonesimulator/Tableview.build/Objects-normal/i386/ViewController.o
+t1348869416
+s82412
+
+N/Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Build/Intermediates/Test.build/Debug-iphonesimulator/Tableview.build/Objects-normal/i386/main.o
+t1348868950
+s3356
+
+N/Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Build/Products/Debug-iphonesimulator/Tableview.app
+t1348869416
+s306
+
+N/Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Build/Products/Debug-iphonesimulator/Tableview.app.dSYM
+t1348869416
+s102
+
+N/Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Build/Products/Debug-iphonesimulator/Tableview.app/Info.plist
+t1348868940
+s884
+
+N/Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Build/Products/Debug-iphonesimulator/Tableview.app/MyCustomcell.nib
+t1348868953
+s2260
+
+N/Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Build/Products/Debug-iphonesimulator/Tableview.app/PkgInfo
+t1348868940
+s8
+
+N/Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Build/Products/Debug-iphonesimulator/Tableview.app/Tableview
+t1348869416
+s55932
+
+N/Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Build/Products/Debug-iphonesimulator/Tableview.app/en.lproj/InfoPlist.strings
+t1348868953
+s42
+
+N/Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Build/Products/Debug-iphonesimulator/Tableview.app/en.lproj/ViewController.nib
+t1348868953
+s1334
+
+N/Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Build/Products/Debug-iphonesimulator/Tableview.app/no.gif
+t1348868953
+s3895
+
+N/Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Build/Products/Debug-iphonesimulator/Tableview.app/test.png
+t1348868953
+s13130
+
+N/Users/sravanreddy29/Desktop/untitled folder 6/Test/AppDelegate.h
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/sravanreddy29/Desktop/untitled folder 6/Test/AppDelegate.m
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/sravanreddy29/Desktop/untitled folder 6/Test/MyCustomcell.h
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/sravanreddy29/Desktop/untitled folder 6/Test/MyCustomcell.m
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/sravanreddy29/Desktop/untitled folder 6/Test/MyCustomcell.xib
+c000000005065E3250000000000004034
+t1348854565
+s16436
+
+N/Users/sravanreddy29/Desktop/untitled folder 6/Test/Test-Prefix.pch
+c00000000506330F50000000000000137
+t1348677877
+s311
+
+N/Users/sravanreddy29/Desktop/untitled folder 6/Test/ViewController.h
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/sravanreddy29/Desktop/untitled folder 6/Test/ViewController.m
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/sravanreddy29/Desktop/untitled folder 6/Test/en.lproj/InfoPlist.strings
+c00000000506330F5000000000000002D
+t1348677877
+s45
+
+N/Users/sravanreddy29/Desktop/untitled folder 6/Test/en.lproj/ViewController.xib
+c000000005065B233000000000000266C
+t1348842035
+s9836
+
+N/Users/sravanreddy29/Desktop/untitled folder 6/Test/main.m
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/sravanreddy29/Desktop/untitled folder 6/Test/no.gif
+c000000005065DE6E0000000000000F37
+t1348853358
+s3895
+
+N/Users/sravanreddy29/Desktop/untitled folder 6/test.png
+c000000005066179D000000000000334A
+t1348867997
+s13130
+
+NTest/Test-Info.plist
+c00000000506617B0000000000000053F
+t1348868016
+s1343
+
+CAnalyze /Users/sravanreddy29/Desktop/LivingSocial/Test/AppDelegate.m
+s370562284.149499
+e370562284.220051
+r1
+xAnalyze
+x/Users/sravanreddy29/Desktop/LivingSocial/Test/AppDelegate.m
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection68"Analyze /Users/sravanreddy29/Desktop/LivingSocial/Test/AppDelegate.m336e26ec5416b641^475838ec5416b641^---0#0#0#-19%DVTDocumentLocation2@76"file://localhost/Users/sravanreddy29/Desktop/LivingSocial/Test/AppDelegate.m0000000000000000^3379"Analyze Test/AppDelegate.m    cd /Users/sravanreddy29/Desktop/LivingSocial    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -Xclang -analyzer-disable-checker -Xclang deadcode.IdempotentOperations -Xclang -analyzer-checker -Xclang osx.cocoa.experimental.SelfInit -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/sravanreddy29/Desktop/LivingSocial/Products/Test/Build/Intermediates/Test.build/Debug-iphonesimulator/Tableview.build/Tableview-generated-files.hmap -I/Users/sravanreddy29/Desktop/LivingSocial/Products/Test/Build/Intermediates/Test.build/Debug-iphonesimulator/Tableview.build/Tableview-own-target-headers.hmap -I/Users/sravanreddy29/Desktop/LivingSocial/Products/Test/Build/Intermediates/Test.build/Debug-iphonesimulator/Tableview.build/Tableview-all-target-headers.hmap -iquote /Users/sravanreddy29/Desktop/LivingSocial/Products/Test/Build/Intermediates/Test.build/Debug-iphonesimulator/Tableview.build/Tableview-project-headers.hmap -I/Users/sravanreddy29/Desktop/LivingSocial/Products/Test/Build/Products/Debug-iphonesimulator/include -I/Users/sravanreddy29/Desktop/LivingSocial/Products/Test/Build/Intermediates/Test.build/Debug-iphonesimulator/Tableview.build/DerivedSources/i386 -I/Users/sravanreddy29/Desktop/LivingSocial/Products/Test/Build/Intermediates/Test.build/Debug-iphonesimulator/Tableview.build/DerivedSources -F/Users/sravanreddy29/Desktop/LivingSocial/Products/Test/Build/Products/Debug-iphonesimulator -include /Users/sravanreddy29/Desktop/LivingSocial/Products/Test/Build/Intermediates/PrecompiledHeaders/Test-Prefix-aancvdfrypbkckcrjpwqsvpnndna/Test-Prefix.pch -MMD -MT dependencies -MF /Users/sravanreddy29/Desktop/LivingSocial/Products/Test/Build/Intermediates/Test.build/Debug-iphonesimulator/Tableview.build/StaticAnalyzer/normal/i386/AppDelegate.d --analyze /Users/sravanreddy29/Desktop/LivingSocial/Test/AppDelegate.m -o /Users/sravanreddy29/Desktop/LivingSocial/Products/Test/Build/Intermediates/Test.build/Debug-iphonesimulator/Tableview.build/StaticAnalyzer/normal/i386/AppDelegate.plist36"AA7B5132-5873-4E02-A18A-D32F303D2230-
+
+CAnalyze /Users/sravanreddy29/Desktop/LivingSocial/Test/MyCustomcell.m
+s370562284.150179
+e370562284.223580
+r1
+xAnalyze
+x/Users/sravanreddy29/Desktop/LivingSocial/Test/MyCustomcell.m
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection69"Analyze /Users/sravanreddy29/Desktop/LivingSocial/Test/MyCustomcell.m23a026ec5416b641^c44239ec5416b641^---0#0#0#-19%DVTDocumentLocation2@77"file://localhost/Users/sravanreddy29/Desktop/LivingSocial/Test/MyCustomcell.m0000000000000000^3383"Analyze Test/MyCustomcell.m    cd /Users/sravanreddy29/Desktop/LivingSocial    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -Xclang -analyzer-disable-checker -Xclang deadcode.IdempotentOperations -Xclang -analyzer-checker -Xclang osx.cocoa.experimental.SelfInit -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/sravanreddy29/Desktop/LivingSocial/Products/Test/Build/Intermediates/Test.build/Debug-iphonesimulator/Tableview.build/Tableview-generated-files.hmap -I/Users/sravanreddy29/Desktop/LivingSocial/Products/Test/Build/Intermediates/Test.build/Debug-iphonesimulator/Tableview.build/Tableview-own-target-headers.hmap -I/Users/sravanreddy29/Desktop/LivingSocial/Products/Test/Build/Intermediates/Test.build/Debug-iphonesimulator/Tableview.build/Tableview-all-target-headers.hmap -iquote /Users/sravanreddy29/Desktop/LivingSocial/Products/Test/Build/Intermediates/Test.build/Debug-iphonesimulator/Tableview.build/Tableview-project-headers.hmap -I/Users/sravanreddy29/Desktop/LivingSocial/Products/Test/Build/Products/Debug-iphonesimulator/include -I/Users/sravanreddy29/Desktop/LivingSocial/Products/Test/Build/Intermediates/Test.build/Debug-iphonesimulator/Tableview.build/DerivedSources/i386 -I/Users/sravanreddy29/Desktop/LivingSocial/Products/Test/Build/Intermediates/Test.build/Debug-iphonesimulator/Tableview.build/DerivedSources -F/Users/sravanreddy29/Desktop/LivingSocial/Products/Test/Build/Products/Debug-iphonesimulator -include /Users/sravanreddy29/Desktop/LivingSocial/Products/Test/Build/Intermediates/PrecompiledHeaders/Test-Prefix-aancvdfrypbkckcrjpwqsvpnndna/Test-Prefix.pch -MMD -MT dependencies -MF /Users/sravanreddy29/Desktop/LivingSocial/Products/Test/Build/Intermediates/Test.build/Debug-iphonesimulator/Tableview.build/StaticAnalyzer/normal/i386/MyCustomcell.d --analyze /Users/sravanreddy29/Desktop/LivingSocial/Test/MyCustomcell.m -o /Users/sravanreddy29/Desktop/LivingSocial/Products/Test/Build/Intermediates/Test.build/Debug-iphonesimulator/Tableview.build/StaticAnalyzer/normal/i386/MyCustomcell.plist36"87DD94CA-0379-4995-9923-110AF4A79290-
+
+CAnalyze /Users/sravanreddy29/Desktop/LivingSocial/Test/ViewController.m
+s370562284.149518
+e370562284.227388
+r1
+xAnalyze
+x/Users/sravanreddy29/Desktop/LivingSocial/Test/ViewController.m
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection71"Analyze /Users/sravanreddy29/Desktop/LivingSocial/Test/ViewController.m697126ec5416b641^26373aec5416b641^---0#0#0#-19%DVTDocumentLocation2@79"file://localhost/Users/sravanreddy29/Desktop/LivingSocial/Test/ViewController.m0000000000000000^3391"Analyze Test/ViewController.m    cd /Users/sravanreddy29/Desktop/LivingSocial    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -Xclang -analyzer-disable-checker -Xclang deadcode.IdempotentOperations -Xclang -analyzer-checker -Xclang osx.cocoa.experimental.SelfInit -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/sravanreddy29/Desktop/LivingSocial/Products/Test/Build/Intermediates/Test.build/Debug-iphonesimulator/Tableview.build/Tableview-generated-files.hmap -I/Users/sravanreddy29/Desktop/LivingSocial/Products/Test/Build/Intermediates/Test.build/Debug-iphonesimulator/Tableview.build/Tableview-own-target-headers.hmap -I/Users/sravanreddy29/Desktop/LivingSocial/Products/Test/Build/Intermediates/Test.build/Debug-iphonesimulator/Tableview.build/Tableview-all-target-headers.hmap -iquote /Users/sravanreddy29/Desktop/LivingSocial/Products/Test/Build/Intermediates/Test.build/Debug-iphonesimulator/Tableview.build/Tableview-project-headers.hmap -I/Users/sravanreddy29/Desktop/LivingSocial/Products/Test/Build/Products/Debug-iphonesimulator/include -I/Users/sravanreddy29/Desktop/LivingSocial/Products/Test/Build/Intermediates/Test.build/Debug-iphonesimulator/Tableview.build/DerivedSources/i386 -I/Users/sravanreddy29/Desktop/LivingSocial/Products/Test/Build/Intermediates/Test.build/Debug-iphonesimulator/Tableview.build/DerivedSources -F/Users/sravanreddy29/Desktop/LivingSocial/Products/Test/Build/Products/Debug-iphonesimulator -include /Users/sravanreddy29/Desktop/LivingSocial/Products/Test/Build/Intermediates/PrecompiledHeaders/Test-Prefix-aancvdfrypbkckcrjpwqsvpnndna/Test-Prefix.pch -MMD -MT dependencies -MF /Users/sravanreddy29/Desktop/LivingSocial/Products/Test/Build/Intermediates/Test.build/Debug-iphonesimulator/Tableview.build/StaticAnalyzer/normal/i386/ViewController.d --analyze /Users/sravanreddy29/Desktop/LivingSocial/Test/ViewController.m -o /Users/sravanreddy29/Desktop/LivingSocial/Products/Test/Build/Intermediates/Test.build/Debug-iphonesimulator/Tableview.build/StaticAnalyzer/normal/i386/ViewController.plist36"3F6FA1FD-AD83-4D73-924D-A6EDCA1CC290-
+
+CAnalyze /Users/sravanreddy29/Desktop/LivingSocial/Test/main.m
+s370562284.149489
+e370562284.223537
+r1
+xAnalyze
+x/Users/sravanreddy29/Desktop/LivingSocial/Test/main.m
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection61"Analyze /Users/sravanreddy29/Desktop/LivingSocial/Test/main.m016e26ec5416b641^ff3c39ec5416b641^---0#0#0#-19%DVTDocumentLocation2@69"file://localhost/Users/sravanreddy29/Desktop/LivingSocial/Test/main.m0000000000000000^3351"Analyze Test/main.m    cd /Users/sravanreddy29/Desktop/LivingSocial    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -Xclang -analyzer-disable-checker -Xclang deadcode.IdempotentOperations -Xclang -analyzer-checker -Xclang osx.cocoa.experimental.SelfInit -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/sravanreddy29/Desktop/LivingSocial/Products/Test/Build/Intermediates/Test.build/Debug-iphonesimulator/Tableview.build/Tableview-generated-files.hmap -I/Users/sravanreddy29/Desktop/LivingSocial/Products/Test/Build/Intermediates/Test.build/Debug-iphonesimulator/Tableview.build/Tableview-own-target-headers.hmap -I/Users/sravanreddy29/Desktop/LivingSocial/Products/Test/Build/Intermediates/Test.build/Debug-iphonesimulator/Tableview.build/Tableview-all-target-headers.hmap -iquote /Users/sravanreddy29/Desktop/LivingSocial/Products/Test/Build/Intermediates/Test.build/Debug-iphonesimulator/Tableview.build/Tableview-project-headers.hmap -I/Users/sravanreddy29/Desktop/LivingSocial/Products/Test/Build/Products/Debug-iphonesimulator/include -I/Users/sravanreddy29/Desktop/LivingSocial/Products/Test/Build/Intermediates/Test.build/Debug-iphonesimulator/Tableview.build/DerivedSources/i386 -I/Users/sravanreddy29/Desktop/LivingSocial/Products/Test/Build/Intermediates/Test.build/Debug-iphonesimulator/Tableview.build/DerivedSources -F/Users/sravanreddy29/Desktop/LivingSocial/Products/Test/Build/Products/Debug-iphonesimulator -include /Users/sravanreddy29/Desktop/LivingSocial/Products/Test/Build/Intermediates/PrecompiledHeaders/Test-Prefix-aancvdfrypbkckcrjpwqsvpnndna/Test-Prefix.pch -MMD -MT dependencies -MF /Users/sravanreddy29/Desktop/LivingSocial/Products/Test/Build/Intermediates/Test.build/Debug-iphonesimulator/Tableview.build/StaticAnalyzer/normal/i386/main.d --analyze /Users/sravanreddy29/Desktop/LivingSocial/Test/main.m -o /Users/sravanreddy29/Desktop/LivingSocial/Products/Test/Build/Intermediates/Test.build/Debug-iphonesimulator/Tableview.build/StaticAnalyzer/normal/i386/main.plist36"4B5C508D-25D4-43A9-8311-DB1E81132C62-
+
+CBuild AST from "/Users/sravanreddy29/Desktop/untitled folder 6/Test/AppDelegate.m"
+r0
+
+CBuild AST from "/Users/sravanreddy29/Desktop/untitled folder 6/Test/MyCustomcell.m"
+r0
+
+CBuild AST from "/Users/sravanreddy29/Desktop/untitled folder 6/Test/ViewController.m"
+r0
+
+CBuild AST from "/Users/sravanreddy29/Desktop/untitled folder 6/Test/main.m"
+r0
+
+CBuild AST from /Users/sravanreddy29/Desktop/LivingSocial/Test/AppDelegate.m
+r0
+
+CBuild AST from /Users/sravanreddy29/Desktop/LivingSocial/Test/MyCustomcell.m
+r0
+
+CBuild AST from /Users/sravanreddy29/Desktop/LivingSocial/Test/ViewController.m
+r0
+
+CBuild AST from /Users/sravanreddy29/Desktop/LivingSocial/Test/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies587433e55516b641^ebab33e55516b641^---0#1#0#--18"Check dependencies36"8024205A-2781-40C2-90DF-9D8D063DA8B7-
+
+CCompileC Products/Test/Build/Intermediates/Test.build/Debug-iphonesimulator/Tableview.build/Objects-normal/i386/AppDelegate.o "/Users/sravanreddy29/Desktop/untitled folder 6/Test/AppDelegate.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s370561749.309770
+e370561750.697050
+r1
+xCompileC
+xProducts/Test/Build/Intermediates/Test.build/Debug-iphonesimulator/Tableview.build/Objects-normal/i386/AppDelegate.o
+x/Users/sravanreddy29/Desktop/untitled folder 6/Test/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection73"Compile /Users/sravanreddy29/Desktop/untitled folder 6/Test/AppDelegate.m60ac4fd55216b641^bd71b2d65216b641^---0#0#0#-19%DVTDocumentLocation2@85"file://localhost/Users/sravanreddy29/Desktop/untitled%20folder%206/Test/AppDelegate.m0000000000000000^3685"CompileC Products/Test/Build/Intermediates/Test.build/Debug-iphonesimulator/Tableview.build/Objects-normal/i386/AppDelegate.o Test/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/sravanreddy29/Desktop/untitled folder 6"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Build/Intermediates/Test.build/Debug-iphonesimulator/Tableview.build/Tableview-generated-files.hmap" "-I/Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Build/Intermediates/Test.build/Debug-iphonesimulator/Tableview.build/Tableview-own-target-headers.hmap" "-I/Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Build/Intermediates/Test.build/Debug-iphonesimulator/Tableview.build/Tableview-all-target-headers.hmap" -iquote "/Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Build/Intermediates/Test.build/Debug-iphonesimulator/Tableview.build/Tableview-project-headers.hmap" "-I/Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Build/Products/Debug-iphonesimulator/include" "-I/Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Build/Intermediates/Test.build/Debug-iphonesimulator/Tableview.build/DerivedSources/i386" "-I/Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Build/Intermediates/Test.build/Debug-iphonesimulator/Tableview.build/DerivedSources" "-F/Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Build/Products/Debug-iphonesimulator" -include "/Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Build/Intermediates/PrecompiledHeaders/Test-Prefix-eutbgocbycasxddoqtiasmpkncct/Test-Prefix.pch" -MMD -MT dependencies -MF "/Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Build/Intermediates/Test.build/Debug-iphonesimulator/Tableview.build/Objects-normal/i386/AppDelegate.d" --serialize-diagnostics "/Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Build/Intermediates/Test.build/Debug-iphonesimulator/Tableview.build/Objects-normal/i386/AppDelegate.dia" -c "/Users/sravanreddy29/Desktop/untitled folder 6/Test/AppDelegate.m" -o "/Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Build/Intermediates/Test.build/Debug-iphonesimulator/Tableview.build/Objects-normal/i386/AppDelegate.o"36"D90F27A6-6403-4F7F-9006-91EA18117D14-
+
+CCompileC Products/Test/Build/Intermediates/Test.build/Debug-iphonesimulator/Tableview.build/Objects-normal/i386/AppDelegate.o /Users/sravanreddy29/Desktop/LivingSocial/Test/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s370562278.886403
+e370562278.970422
+r1
+xCompileC
+xProducts/Test/Build/Intermediates/Test.build/Debug-iphonesimulator/Tableview.build/Objects-normal/i386/AppDelegate.o
+x/Users/sravanreddy29/Desktop/LivingSocial/Test/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection68"Compile /Users/sravanreddy29/Desktop/LivingSocial/Test/AppDelegate.m8810e3e65416b641^7175f8e65416b641^---0#0#0#-19%DVTDocumentLocation2@76"file://localhost/Users/sravanreddy29/Desktop/LivingSocial/Test/AppDelegate.m0000000000000000^3587"CompileC Products/Test/Build/Intermediates/Test.build/Debug-iphonesimulator/Tableview.build/Objects-normal/i386/AppDelegate.o Test/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/sravanreddy29/Desktop/LivingSocial    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/sravanreddy29/Desktop/LivingSocial/Products/Test/Build/Intermediates/Test.build/Debug-iphonesimulator/Tableview.build/Tableview-generated-files.hmap -I/Users/sravanreddy29/Desktop/LivingSocial/Products/Test/Build/Intermediates/Test.build/Debug-iphonesimulator/Tableview.build/Tableview-own-target-headers.hmap -I/Users/sravanreddy29/Desktop/LivingSocial/Products/Test/Build/Intermediates/Test.build/Debug-iphonesimulator/Tableview.build/Tableview-all-target-headers.hmap -iquote /Users/sravanreddy29/Desktop/LivingSocial/Products/Test/Build/Intermediates/Test.build/Debug-iphonesimulator/Tableview.build/Tableview-project-headers.hmap -I/Users/sravanreddy29/Desktop/LivingSocial/Products/Test/Build/Products/Debug-iphonesimulator/include -I/Users/sravanreddy29/Desktop/LivingSocial/Products/Test/Build/Intermediates/Test.build/Debug-iphonesimulator/Tableview.build/DerivedSources/i386 -I/Users/sravanreddy29/Desktop/LivingSocial/Products/Test/Build/Intermediates/Test.build/Debug-iphonesimulator/Tableview.build/DerivedSources -F/Users/sravanreddy29/Desktop/LivingSocial/Products/Test/Build/Products/Debug-iphonesimulator -include /Users/sravanreddy29/Desktop/LivingSocial/Products/Test/Build/Intermediates/PrecompiledHeaders/Test-Prefix-gccizeiqonqmlbfmpmjxfxhrdama/Test-Prefix.pch -MMD -MT dependencies -MF /Users/sravanreddy29/Desktop/LivingSocial/Products/Test/Build/Intermediates/Test.build/Debug-iphonesimulator/Tableview.build/Objects-normal/i386/AppDelegate.d --serialize-diagnostics /Users/sravanreddy29/Desktop/LivingSocial/Products/Test/Build/Intermediates/Test.build/Debug-iphonesimulator/Tableview.build/Objects-normal/i386/AppDelegate.dia -c /Users/sravanreddy29/Desktop/LivingSocial/Test/AppDelegate.m -o /Users/sravanreddy29/Desktop/LivingSocial/Products/Test/Build/Intermediates/Test.build/Debug-iphonesimulator/Tableview.build/Objects-normal/i386/AppDelegate.o36"006A0224-F071-4B96-96B0-6A83EF1E9104-
+
+CCompileC Products/Test/Build/Intermediates/Test.build/Debug-iphonesimulator/Tableview.build/Objects-normal/i386/MyCustomcell.o "/Users/sravanreddy29/Desktop/untitled folder 6/Test/MyCustomcell.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s370561749.310265
+e370561750.603160
+r1
+xCompileC
+xProducts/Test/Build/Intermediates/Test.build/Debug-iphonesimulator/Tableview.build/Objects-normal/i386/MyCustomcell.o
+x/Users/sravanreddy29/Desktop/untitled folder 6/Test/MyCustomcell.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection74"Compile /Users/sravanreddy29/Desktop/untitled folder 6/Test/MyCustomcell.mb4c74fd55216b641^516b9ad65216b641^---0#0#0#-19%DVTDocumentLocation2@86"file://localhost/Users/sravanreddy29/Desktop/untitled%20folder%206/Test/MyCustomcell.m0000000000000000^3691"CompileC Products/Test/Build/Intermediates/Test.build/Debug-iphonesimulator/Tableview.build/Objects-normal/i386/MyCustomcell.o Test/MyCustomcell.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/sravanreddy29/Desktop/untitled folder 6"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Build/Intermediates/Test.build/Debug-iphonesimulator/Tableview.build/Tableview-generated-files.hmap" "-I/Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Build/Intermediates/Test.build/Debug-iphonesimulator/Tableview.build/Tableview-own-target-headers.hmap" "-I/Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Build/Intermediates/Test.build/Debug-iphonesimulator/Tableview.build/Tableview-all-target-headers.hmap" -iquote "/Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Build/Intermediates/Test.build/Debug-iphonesimulator/Tableview.build/Tableview-project-headers.hmap" "-I/Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Build/Products/Debug-iphonesimulator/include" "-I/Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Build/Intermediates/Test.build/Debug-iphonesimulator/Tableview.build/DerivedSources/i386" "-I/Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Build/Intermediates/Test.build/Debug-iphonesimulator/Tableview.build/DerivedSources" "-F/Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Build/Products/Debug-iphonesimulator" -include "/Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Build/Intermediates/PrecompiledHeaders/Test-Prefix-eutbgocbycasxddoqtiasmpkncct/Test-Prefix.pch" -MMD -MT dependencies -MF "/Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Build/Intermediates/Test.build/Debug-iphonesimulator/Tableview.build/Objects-normal/i386/MyCustomcell.d" --serialize-diagnostics "/Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Build/Intermediates/Test.build/Debug-iphonesimulator/Tableview.build/Objects-normal/i386/MyCustomcell.dia" -c "/Users/sravanreddy29/Desktop/untitled folder 6/Test/MyCustomcell.m" -o "/Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Build/Intermediates/Test.build/Debug-iphonesimulator/Tableview.build/Objects-normal/i386/MyCustomcell.o"36"0267CABA-C6F4-45A5-9444-4D32C2A8FA3D-
+
+CCompileC Products/Test/Build/Intermediates/Test.build/Debug-iphonesimulator/Tableview.build/Objects-normal/i386/MyCustomcell.o /Users/sravanreddy29/Desktop/LivingSocial/Test/MyCustomcell.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s370562278.886433
+e370562278.975203
+r1
+xCompileC
+xProducts/Test/Build/Intermediates/Test.build/Debug-iphonesimulator/Tableview.build/Objects-normal/i386/MyCustomcell.o
+x/Users/sravanreddy29/Desktop/LivingSocial/Test/MyCustomcell.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection69"Compile /Users/sravanreddy29/Desktop/LivingSocial/Test/MyCustomcell.m191ee3e65416b641^3ba7f9e65416b641^---0#0#0#-19%DVTDocumentLocation2@77"file://localhost/Users/sravanreddy29/Desktop/LivingSocial/Test/MyCustomcell.m0000000000000000^3593"CompileC Products/Test/Build/Intermediates/Test.build/Debug-iphonesimulator/Tableview.build/Objects-normal/i386/MyCustomcell.o Test/MyCustomcell.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/sravanreddy29/Desktop/LivingSocial    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/sravanreddy29/Desktop/LivingSocial/Products/Test/Build/Intermediates/Test.build/Debug-iphonesimulator/Tableview.build/Tableview-generated-files.hmap -I/Users/sravanreddy29/Desktop/LivingSocial/Products/Test/Build/Intermediates/Test.build/Debug-iphonesimulator/Tableview.build/Tableview-own-target-headers.hmap -I/Users/sravanreddy29/Desktop/LivingSocial/Products/Test/Build/Intermediates/Test.build/Debug-iphonesimulator/Tableview.build/Tableview-all-target-headers.hmap -iquote /Users/sravanreddy29/Desktop/LivingSocial/Products/Test/Build/Intermediates/Test.build/Debug-iphonesimulator/Tableview.build/Tableview-project-headers.hmap -I/Users/sravanreddy29/Desktop/LivingSocial/Products/Test/Build/Products/Debug-iphonesimulator/include -I/Users/sravanreddy29/Desktop/LivingSocial/Products/Test/Build/Intermediates/Test.build/Debug-iphonesimulator/Tableview.build/DerivedSources/i386 -I/Users/sravanreddy29/Desktop/LivingSocial/Products/Test/Build/Intermediates/Test.build/Debug-iphonesimulator/Tableview.build/DerivedSources -F/Users/sravanreddy29/Desktop/LivingSocial/Products/Test/Build/Products/Debug-iphonesimulator -include /Users/sravanreddy29/Desktop/LivingSocial/Products/Test/Build/Intermediates/PrecompiledHeaders/Test-Prefix-gccizeiqonqmlbfmpmjxfxhrdama/Test-Prefix.pch -MMD -MT dependencies -MF /Users/sravanreddy29/Desktop/LivingSocial/Products/Test/Build/Intermediates/Test.build/Debug-iphonesimulator/Tableview.build/Objects-normal/i386/MyCustomcell.d --serialize-diagnostics /Users/sravanreddy29/Desktop/LivingSocial/Products/Test/Build/Intermediates/Test.build/Debug-iphonesimulator/Tableview.build/Objects-normal/i386/MyCustomcell.dia -c /Users/sravanreddy29/Desktop/LivingSocial/Test/MyCustomcell.m -o /Users/sravanreddy29/Desktop/LivingSocial/Products/Test/Build/Intermediates/Test.build/Debug-iphonesimulator/Tableview.build/Objects-normal/i386/MyCustomcell.o36"6FBBF2E6-D925-411F-B43E-D8B3512CB386-
+
+CCompileC Products/Test/Build/Intermediates/Test.build/Debug-iphonesimulator/Tableview.build/Objects-normal/i386/ViewController.o "/Users/sravanreddy29/Desktop/untitled folder 6/Test/ViewController.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s370562216.580118
+e370562216.657371
+r1
+xCompileC
+xProducts/Test/Build/Intermediates/Test.build/Debug-iphonesimulator/Tableview.build/Objects-normal/i386/ViewController.o
+x/Users/sravanreddy29/Desktop/untitled folder 6/Test/ViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection76"Compile /Users/sravanreddy29/Desktop/untitled folder 6/Test/ViewController.mcba294a85416b641^cefaaca85416b641^---0#0#0#-19%DVTDocumentLocation2@88"file://localhost/Users/sravanreddy29/Desktop/untitled%20folder%206/Test/ViewController.m0000000000000000^3703"CompileC Products/Test/Build/Intermediates/Test.build/Debug-iphonesimulator/Tableview.build/Objects-normal/i386/ViewController.o Test/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/sravanreddy29/Desktop/untitled folder 6"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Build/Intermediates/Test.build/Debug-iphonesimulator/Tableview.build/Tableview-generated-files.hmap" "-I/Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Build/Intermediates/Test.build/Debug-iphonesimulator/Tableview.build/Tableview-own-target-headers.hmap" "-I/Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Build/Intermediates/Test.build/Debug-iphonesimulator/Tableview.build/Tableview-all-target-headers.hmap" -iquote "/Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Build/Intermediates/Test.build/Debug-iphonesimulator/Tableview.build/Tableview-project-headers.hmap" "-I/Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Build/Products/Debug-iphonesimulator/include" "-I/Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Build/Intermediates/Test.build/Debug-iphonesimulator/Tableview.build/DerivedSources/i386" "-I/Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Build/Intermediates/Test.build/Debug-iphonesimulator/Tableview.build/DerivedSources" "-F/Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Build/Products/Debug-iphonesimulator" -include "/Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Build/Intermediates/PrecompiledHeaders/Test-Prefix-eutbgocbycasxddoqtiasmpkncct/Test-Prefix.pch" -MMD -MT dependencies -MF "/Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Build/Intermediates/Test.build/Debug-iphonesimulator/Tableview.build/Objects-normal/i386/ViewController.d" --serialize-diagnostics "/Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Build/Intermediates/Test.build/Debug-iphonesimulator/Tableview.build/Objects-normal/i386/ViewController.dia" -c "/Users/sravanreddy29/Desktop/untitled folder 6/Test/ViewController.m" -o "/Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Build/Intermediates/Test.build/Debug-iphonesimulator/Tableview.build/Objects-normal/i386/ViewController.o"36"F95047AA-8C63-428B-B0E4-B668357ED2D9-
+
+CCompileC Products/Test/Build/Intermediates/Test.build/Debug-iphonesimulator/Tableview.build/Objects-normal/i386/ViewController.o /Users/sravanreddy29/Desktop/LivingSocial/Test/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s370562533.220732
+e370562533.273106
+r1
+xCompileC
+xProducts/Test/Build/Intermediates/Test.build/Debug-iphonesimulator/Tableview.build/Objects-normal/i386/ViewController.o
+x/Users/sravanreddy29/Desktop/LivingSocial/Test/ViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection71"Compile /Users/sravanreddy29/Desktop/LivingSocial/Test/ViewController.me59838e55516b641^96eb45e55516b641^---0#0#0#-19%DVTDocumentLocation2@79"file://localhost/Users/sravanreddy29/Desktop/LivingSocial/Test/ViewController.m0000000000000000^3605"CompileC Products/Test/Build/Intermediates/Test.build/Debug-iphonesimulator/Tableview.build/Objects-normal/i386/ViewController.o Test/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/sravanreddy29/Desktop/LivingSocial    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/sravanreddy29/Desktop/LivingSocial/Products/Test/Build/Intermediates/Test.build/Debug-iphonesimulator/Tableview.build/Tableview-generated-files.hmap -I/Users/sravanreddy29/Desktop/LivingSocial/Products/Test/Build/Intermediates/Test.build/Debug-iphonesimulator/Tableview.build/Tableview-own-target-headers.hmap -I/Users/sravanreddy29/Desktop/LivingSocial/Products/Test/Build/Intermediates/Test.build/Debug-iphonesimulator/Tableview.build/Tableview-all-target-headers.hmap -iquote /Users/sravanreddy29/Desktop/LivingSocial/Products/Test/Build/Intermediates/Test.build/Debug-iphonesimulator/Tableview.build/Tableview-project-headers.hmap -I/Users/sravanreddy29/Desktop/LivingSocial/Products/Test/Build/Products/Debug-iphonesimulator/include -I/Users/sravanreddy29/Desktop/LivingSocial/Products/Test/Build/Intermediates/Test.build/Debug-iphonesimulator/Tableview.build/DerivedSources/i386 -I/Users/sravanreddy29/Desktop/LivingSocial/Products/Test/Build/Intermediates/Test.build/Debug-iphonesimulator/Tableview.build/DerivedSources -F/Users/sravanreddy29/Desktop/LivingSocial/Products/Test/Build/Products/Debug-iphonesimulator -include /Users/sravanreddy29/Desktop/LivingSocial/Products/Test/Build/Intermediates/PrecompiledHeaders/Test-Prefix-gccizeiqonqmlbfmpmjxfxhrdama/Test-Prefix.pch -MMD -MT dependencies -MF /Users/sravanreddy29/Desktop/LivingSocial/Products/Test/Build/Intermediates/Test.build/Debug-iphonesimulator/Tableview.build/Objects-normal/i386/ViewController.d --serialize-diagnostics /Users/sravanreddy29/Desktop/LivingSocial/Products/Test/Build/Intermediates/Test.build/Debug-iphonesimulator/Tableview.build/Objects-normal/i386/ViewController.dia -c /Users/sravanreddy29/Desktop/LivingSocial/Test/ViewController.m -o /Users/sravanreddy29/Desktop/LivingSocial/Products/Test/Build/Intermediates/Test.build/Debug-iphonesimulator/Tableview.build/Objects-normal/i386/ViewController.o36"5D11A644-354B-48CF-83C1-895A9AC42310-
+
+CCompileC Products/Test/Build/Intermediates/Test.build/Debug-iphonesimulator/Tableview.build/Objects-normal/i386/main.o "/Users/sravanreddy29/Desktop/untitled folder 6/Test/main.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s370561749.309763
+e370561750.587233
+r1
+xCompileC
+xProducts/Test/Build/Intermediates/Test.build/Debug-iphonesimulator/Tableview.build/Objects-normal/i386/main.o
+x/Users/sravanreddy29/Desktop/untitled folder 6/Test/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection66"Compile /Users/sravanreddy29/Desktop/untitled folder 6/Test/main.m63984fd55216b641^d65496d65216b641^---0#0#0#-19%DVTDocumentLocation2@78"file://localhost/Users/sravanreddy29/Desktop/untitled%20folder%206/Test/main.m0000000000000000^3643"CompileC Products/Test/Build/Intermediates/Test.build/Debug-iphonesimulator/Tableview.build/Objects-normal/i386/main.o Test/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/sravanreddy29/Desktop/untitled folder 6"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Build/Intermediates/Test.build/Debug-iphonesimulator/Tableview.build/Tableview-generated-files.hmap" "-I/Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Build/Intermediates/Test.build/Debug-iphonesimulator/Tableview.build/Tableview-own-target-headers.hmap" "-I/Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Build/Intermediates/Test.build/Debug-iphonesimulator/Tableview.build/Tableview-all-target-headers.hmap" -iquote "/Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Build/Intermediates/Test.build/Debug-iphonesimulator/Tableview.build/Tableview-project-headers.hmap" "-I/Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Build/Products/Debug-iphonesimulator/include" "-I/Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Build/Intermediates/Test.build/Debug-iphonesimulator/Tableview.build/DerivedSources/i386" "-I/Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Build/Intermediates/Test.build/Debug-iphonesimulator/Tableview.build/DerivedSources" "-F/Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Build/Products/Debug-iphonesimulator" -include "/Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Build/Intermediates/PrecompiledHeaders/Test-Prefix-eutbgocbycasxddoqtiasmpkncct/Test-Prefix.pch" -MMD -MT dependencies -MF "/Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Build/Intermediates/Test.build/Debug-iphonesimulator/Tableview.build/Objects-normal/i386/main.d" --serialize-diagnostics "/Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Build/Intermediates/Test.build/Debug-iphonesimulator/Tableview.build/Objects-normal/i386/main.dia" -c "/Users/sravanreddy29/Desktop/untitled folder 6/Test/main.m" -o "/Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Build/Intermediates/Test.build/Debug-iphonesimulator/Tableview.build/Objects-normal/i386/main.o"36"BCE97B9F-E4FD-4002-A45D-89A9C8BD0034-
+
+CCompileC Products/Test/Build/Intermediates/Test.build/Debug-iphonesimulator/Tableview.build/Objects-normal/i386/main.o /Users/sravanreddy29/Desktop/LivingSocial/Test/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s370562278.886103
+e370562278.950086
+r1
+xCompileC
+xProducts/Test/Build/Intermediates/Test.build/Debug-iphonesimulator/Tableview.build/Objects-normal/i386/main.o
+x/Users/sravanreddy29/Desktop/LivingSocial/Test/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection61"Compile /Users/sravanreddy29/Desktop/LivingSocial/Test/main.m9a08e3e65416b641^3f38f3e65416b641^---0#0#0#-19%DVTDocumentLocation2@69"file://localhost/Users/sravanreddy29/Desktop/LivingSocial/Test/main.m0000000000000000^3545"CompileC Products/Test/Build/Intermediates/Test.build/Debug-iphonesimulator/Tableview.build/Objects-normal/i386/main.o Test/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/sravanreddy29/Desktop/LivingSocial    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/sravanreddy29/Desktop/LivingSocial/Products/Test/Build/Intermediates/Test.build/Debug-iphonesimulator/Tableview.build/Tableview-generated-files.hmap -I/Users/sravanreddy29/Desktop/LivingSocial/Products/Test/Build/Intermediates/Test.build/Debug-iphonesimulator/Tableview.build/Tableview-own-target-headers.hmap -I/Users/sravanreddy29/Desktop/LivingSocial/Products/Test/Build/Intermediates/Test.build/Debug-iphonesimulator/Tableview.build/Tableview-all-target-headers.hmap -iquote /Users/sravanreddy29/Desktop/LivingSocial/Products/Test/Build/Intermediates/Test.build/Debug-iphonesimulator/Tableview.build/Tableview-project-headers.hmap -I/Users/sravanreddy29/Desktop/LivingSocial/Products/Test/Build/Products/Debug-iphonesimulator/include -I/Users/sravanreddy29/Desktop/LivingSocial/Products/Test/Build/Intermediates/Test.build/Debug-iphonesimulator/Tableview.build/DerivedSources/i386 -I/Users/sravanreddy29/Desktop/LivingSocial/Products/Test/Build/Intermediates/Test.build/Debug-iphonesimulator/Tableview.build/DerivedSources -F/Users/sravanreddy29/Desktop/LivingSocial/Products/Test/Build/Products/Debug-iphonesimulator -include /Users/sravanreddy29/Desktop/LivingSocial/Products/Test/Build/Intermediates/PrecompiledHeaders/Test-Prefix-gccizeiqonqmlbfmpmjxfxhrdama/Test-Prefix.pch -MMD -MT dependencies -MF /Users/sravanreddy29/Desktop/LivingSocial/Products/Test/Build/Intermediates/Test.build/Debug-iphonesimulator/Tableview.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/sravanreddy29/Desktop/LivingSocial/Products/Test/Build/Intermediates/Test.build/Debug-iphonesimulator/Tableview.build/Objects-normal/i386/main.dia -c /Users/sravanreddy29/Desktop/LivingSocial/Test/main.m -o /Users/sravanreddy29/Desktop/LivingSocial/Products/Test/Build/Intermediates/Test.build/Debug-iphonesimulator/Tableview.build/Objects-normal/i386/main.o36"77295D3F-485B-4708-BD3A-FB82CBE886C3-
+
+CCompileXIB "/Users/sravanreddy29/Desktop/untitled folder 6/Test/MyCustomcell.xib"
+s370561753.195890
+e370561753.570074
+r1
+xCompileXIB
+x/Users/sravanreddy29/Desktop/untitled folder 6/Test/MyCustomcell.xib
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection78"Compiling /Users/sravanreddy29/Desktop/untitled folder 6/Test/MyCustomcell.xibe73932d95216b641^c3f091d95216b641^---0#0#0#-19%DVTDocumentLocation2@88"file://localhost/Users/sravanreddy29/Desktop/untitled%20folder%206/Test/MyCustomcell.xib0000000000000000^885"CompileXIB Test/MyCustomcell.xib    cd "/Users/sravanreddy29/Desktop/untitled folder 6"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Build/Products/Debug-iphonesimulator/Tableview.app/MyCustomcell.nib" "/Users/sravanreddy29/Desktop/untitled folder 6/Test/MyCustomcell.xib" --sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk36"4DD1C736-84D7-4258-857D-67039A42FEAC-
+
+CCompileXIB "/Users/sravanreddy29/Desktop/untitled folder 6/Test/en.lproj/ViewController.xib"
+s370561753.132162
+e370561753.194602
+r1
+xCompileXIB
+x/Users/sravanreddy29/Desktop/untitled folder 6/Test/en.lproj/ViewController.xib
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection89"Compiling /Users/sravanreddy29/Desktop/untitled folder 6/Test/en.lproj/ViewController.xibecfa21d95216b641^74d431d95216b641^---0#0#0#-19%DVTDocumentLocation2@99"file://localhost/Users/sravanreddy29/Desktop/untitled%20folder%206/Test/en.lproj/ViewController.xib0000000000000000^918"CompileXIB Test/en.lproj/ViewController.xib    cd "/Users/sravanreddy29/Desktop/untitled folder 6"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Build/Products/Debug-iphonesimulator/Tableview.app/en.lproj/ViewController.nib" "/Users/sravanreddy29/Desktop/untitled folder 6/Test/en.lproj/ViewController.xib" --sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk36"C9A79CC9-909A-420E-B3F7-CAAA60289F98-
+
+CCompileXIB /Users/sravanreddy29/Desktop/LivingSocial/Test/MyCustomcell.xib
+r0
+
+CCompileXIB /Users/sravanreddy29/Desktop/LivingSocial/Test/en.lproj/ViewController.xib
+r0
+
+CCopyStringsFile "/Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Build/Products/Debug-iphonesimulator/Tableview.app/en.lproj/InfoPlist.strings" Test/en.lproj/InfoPlist.strings
+s370561753.092093
+e370561753.130775
+r1
+xCopyStringsFile
+x/Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Build/Products/Debug-iphonesimulator/Tableview.app/en.lproj/InfoPlist.strings
+xTest/en.lproj/InfoPlist.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection36"Copy Test/en.lproj/InfoPlist.strings75ab17d95216b641^ee7a21d95216b641^---0#0#0#-19%DVTDocumentLocation2@98"file://localhost/Users/sravanreddy29/Desktop/untitled%20folder%206/Test/en.lproj/InfoPlist.strings0000000000000000^639"CopyStringsFile Products/Test/Build/Products/Debug-iphonesimulator/Tableview.app/en.lproj/InfoPlist.strings Test/en.lproj/InfoPlist.strings    cd "/Users/sravanreddy29/Desktop/untitled folder 6"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir "/Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Build/Products/Debug-iphonesimulator/Tableview.app/en.lproj" -- Test/en.lproj/InfoPlist.strings36"783C938A-9D28-4CA0-8D57-FD4C21CD9D0B-
+
+CCopyStringsFile /Users/sravanreddy29/Desktop/LivingSocial/Products/Test/Build/Products/Debug-iphonesimulator/Tableview.app/en.lproj/InfoPlist.strings Test/en.lproj/InfoPlist.strings
+r0
+
+CCpResource Test/no.gif Products/Test/Build/Products/Debug-iphonesimulator/Tableview.app/no.gif
+s370561753.571314
+e370561753.585028
+r1
+xCpResource
+xTest/no.gif
+xProducts/Test/Build/Products/Debug-iphonesimulator/Tableview.app/no.gif
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection76"Copy Products/Test/Build/Products/Debug-iphonesimulator/Tableview.app/no.gifb05592d95216b641^f3c695d95216b641^---0#0#0#-19%DVTDocumentLocation2@138"file://localhost/Users/sravanreddy29/Desktop/untitled%20folder%206/Products/Test/Build/Products/Debug-iphonesimulator/Tableview.app/no.gif000000000080d041^738"CpResource Test/no.gif Products/Test/Build/Products/Debug-iphonesimulator/Tableview.app/no.gif    cd "/Users/sravanreddy29/Desktop/untitled folder 6"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip "/Users/sravanreddy29/Desktop/untitled folder 6/Test/no.gif" "/Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Build/Products/Debug-iphonesimulator/Tableview.app"36"86137DC1-FDE5-4524-8BEC-EC21D53F254C-
+
+CCpResource test.png Products/Test/Build/Products/Debug-iphonesimulator/Tableview.app/test.png
+s370561753.586316
+e370561753.589461
+r1
+xCpResource
+xtest.png
+xProducts/Test/Build/Products/Debug-iphonesimulator/Tableview.app/test.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection78"Copy Products/Test/Build/Products/Debug-iphonesimulator/Tableview.app/test.png0e2d96d95216b641^3ee796d95216b641^---0#0#0#-19%DVTDocumentLocation2@140"file://localhost/Users/sravanreddy29/Desktop/untitled%20folder%206/Products/Test/Build/Products/Debug-iphonesimulator/Tableview.app/test.png000000000080d041^734"CpResource test.png Products/Test/Build/Products/Debug-iphonesimulator/Tableview.app/test.png    cd "/Users/sravanreddy29/Desktop/untitled folder 6"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip "/Users/sravanreddy29/Desktop/untitled folder 6/test.png" "/Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Build/Products/Debug-iphonesimulator/Tableview.app"36"992508E3-0E27-456E-BA36-59581E6168E8-
+
+CGenerateDSYMFile "/Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Build/Products/Debug-iphonesimulator/Tableview.app.dSYM" "/Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Build/Products/Debug-iphonesimulator/Tableview.app/Tableview"
+s370562216.696824
+e370562216.713836
+r1
+xGenerateDSYMFile
+x/Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Build/Products/Debug-iphonesimulator/Tableview.app.dSYM
+x/Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Build/Products/Debug-iphonesimulator/Tableview.app/Tableview
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection127"Generating /Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Build/Products/Debug-iphonesimulator/Tableview.app.dSYM986eb2a85416b641^060eb8a85416b641^---0#0#0#-19%DVTDocumentLocation2@137"file://localhost/Users/sravanreddy29/Desktop/untitled%20folder%206/Products/Test/Build/Products/Debug-iphonesimulator/Tableview.app.dSYM/0000000000000000^768"GenerateDSYMFile Products/Test/Build/Products/Debug-iphonesimulator/Tableview.app.dSYM Products/Test/Build/Products/Debug-iphonesimulator/Tableview.app/Tableview    cd "/Users/sravanreddy29/Desktop/untitled folder 6"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/dsymutil "/Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Build/Products/Debug-iphonesimulator/Tableview.app/Tableview" -o "/Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Build/Products/Debug-iphonesimulator/Tableview.app.dSYM"36"1A1FD988-DCAD-4C95-B50A-639FDB67E2F4-
+
+CGenerateDSYMFile /Users/sravanreddy29/Desktop/LivingSocial/Products/Test/Build/Products/Debug-iphonesimulator/Tableview.app.dSYM /Users/sravanreddy29/Desktop/LivingSocial/Products/Test/Build/Products/Debug-iphonesimulator/Tableview.app/Tableview
+s370562533.312153
+e370562533.329997
+r1
+xGenerateDSYMFile
+x/Users/sravanreddy29/Desktop/LivingSocial/Products/Test/Build/Products/Debug-iphonesimulator/Tableview.app.dSYM
+x/Users/sravanreddy29/Desktop/LivingSocial/Products/Test/Build/Products/Debug-iphonesimulator/Tableview.app/Tableview
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection122"Generating /Users/sravanreddy29/Desktop/LivingSocial/Products/Test/Build/Products/Debug-iphonesimulator/Tableview.app.dSYM1d0550e55516b641^577b54e55516b641^---0#0#0#-19%DVTDocumentLocation2@128"file://localhost/Users/sravanreddy29/Desktop/LivingSocial/Products/Test/Build/Products/Debug-iphonesimulator/Tableview.app.dSYM/0000000000000000^747"GenerateDSYMFile Products/Test/Build/Products/Debug-iphonesimulator/Tableview.app.dSYM Products/Test/Build/Products/Debug-iphonesimulator/Tableview.app/Tableview    cd /Users/sravanreddy29/Desktop/LivingSocial    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/dsymutil /Users/sravanreddy29/Desktop/LivingSocial/Products/Test/Build/Products/Debug-iphonesimulator/Tableview.app/Tableview -o /Users/sravanreddy29/Desktop/LivingSocial/Products/Test/Build/Products/Debug-iphonesimulator/Tableview.app.dSYM36"6832A9C8-523D-42C7-9E55-EDCCB04FF226-
+
+CLd "/Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Build/Products/Debug-iphonesimulator/Tableview.app/Tableview" normal i386
+s370562216.664746
+e370562216.689330
+r1
+xLd
+x/Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Build/Products/Debug-iphonesimulator/Tableview.app/Tableview
+xnormal
+xi386
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection126"Link /Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Build/Products/Debug-iphonesimulator/Tableview.app/Tableview8a3baaa85416b641^bc07b8a85416b641^---0#0#0#--1340"Ld Products/Test/Build/Products/Debug-iphonesimulator/Tableview.app/Tableview normal i386    cd "/Users/sravanreddy29/Desktop/untitled folder 6"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk "-L/Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Build/Products/Debug-iphonesimulator" "-F/Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Build/Products/Debug-iphonesimulator" -filelist "/Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Build/Intermediates/Test.build/Debug-iphonesimulator/Tableview.build/Objects-normal/i386/Tableview.LinkFileList" -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -Xlinker -no_implicit_dylibs -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -framework UIKit -framework Foundation -framework CoreGraphics -o "/Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Build/Products/Debug-iphonesimulator/Tableview.app/Tableview"36"306BF8F2-F1B8-408D-8919-B6EBC27E5543-
+
+CLd /Users/sravanreddy29/Desktop/LivingSocial/Products/Test/Build/Products/Debug-iphonesimulator/Tableview.app/Tableview normal i386
+s370562533.280881
+e370562533.304195
+r1
+xLd
+x/Users/sravanreddy29/Desktop/LivingSocial/Products/Test/Build/Products/Debug-iphonesimulator/Tableview.app/Tableview
+xnormal
+xi386
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection121"Link /Users/sravanreddy29/Desktop/LivingSocial/Products/Test/Build/Products/Debug-iphonesimulator/Tableview.app/Tableviewe4f647e55516b641^dbdf4de55516b641^---0#0#0#--1305"Ld Products/Test/Build/Products/Debug-iphonesimulator/Tableview.app/Tableview normal i386    cd /Users/sravanreddy29/Desktop/LivingSocial    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -L/Users/sravanreddy29/Desktop/LivingSocial/Products/Test/Build/Products/Debug-iphonesimulator -F/Users/sravanreddy29/Desktop/LivingSocial/Products/Test/Build/Products/Debug-iphonesimulator -filelist /Users/sravanreddy29/Desktop/LivingSocial/Products/Test/Build/Intermediates/Test.build/Debug-iphonesimulator/Tableview.build/Objects-normal/i386/Tableview.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -Xlinker -no_implicit_dylibs -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -framework UIKit -framework Foundation -framework CoreGraphics -o /Users/sravanreddy29/Desktop/LivingSocial/Products/Test/Build/Products/Debug-iphonesimulator/Tableview.app/Tableview36"56A40FAC-3554-405E-A13C-65EB051A0481-
+
+CProcessInfoPlistFile "/Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Build/Products/Debug-iphonesimulator/Tableview.app/Info.plist" Test/Test-Info.plist
+s370561740.498715
+e370561740.521555
+r1
+xProcessInfoPlistFile
+x/Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Build/Products/Debug-iphonesimulator/Tableview.app/Info.plist
+xTest/Test-Info.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection28"Process Test/Test-Info.plist11c67fcc5216b641^9d8585cc5216b641^---0#0#0#-19%DVTDocumentLocation2@87"file://localhost/Users/sravanreddy29/Desktop/untitled%20folder%206/Test/Test-Info.plist0000000000000000^743"ProcessInfoPlistFile Products/Test/Build/Products/Debug-iphonesimulator/Tableview.app/Info.plist Test/Test-Info.plist    cd "/Users/sravanreddy29/Desktop/untitled folder 6"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Test/Test-Info.plist -genpkginfo "/Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Build/Products/Debug-iphonesimulator/Tableview.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Build/Products/Debug-iphonesimulator/Tableview.app/Info.plist"36"25654D7B-EE3B-451C-BF99-12497486CC2D-
+
+CProcessInfoPlistFile /Users/sravanreddy29/Desktop/LivingSocial/Products/Test/Build/Products/Debug-iphonesimulator/Tableview.app/Info.plist Test/Test-Info.plist
+r0
+
+CProcessPCH "/Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Build/Intermediates/PrecompiledHeaders/Test-Prefix-eutbgocbycasxddoqtiasmpkncct/Test-Prefix.pch.pth" Test/Test-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s370561740.529524
+e370561749.303068
+r1
+xProcessPCH
+x/Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Build/Intermediates/PrecompiledHeaders/Test-Prefix-eutbgocbycasxddoqtiasmpkncct/Test-Prefix.pch.pth
+xTest/Test-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection31"Precompile Test/Test-Prefix.pche7a887cc5216b641^cd954dd55216b641^---0#0#0#-19%DVTDocumentLocation2@87"file://localhost/Users/sravanreddy29/Desktop/untitled%20folder%206/Test/Test-Prefix.pch0000000000000000^3514"ProcessPCH Products/Test/Build/Intermediates/PrecompiledHeaders/Test-Prefix-eutbgocbycasxddoqtiasmpkncct/Test-Prefix.pch.pth Test/Test-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/sravanreddy29/Desktop/untitled folder 6"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Build/Intermediates/Test.build/Debug-iphonesimulator/Tableview.build/Tableview-generated-files.hmap" "-I/Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Build/Intermediates/Test.build/Debug-iphonesimulator/Tableview.build/Tableview-own-target-headers.hmap" "-I/Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Build/Intermediates/Test.build/Debug-iphonesimulator/Tableview.build/Tableview-all-target-headers.hmap" -iquote "/Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Build/Intermediates/Test.build/Debug-iphonesimulator/Tableview.build/Tableview-project-headers.hmap" "-I/Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Build/Products/Debug-iphonesimulator/include" "-I/Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Build/Intermediates/Test.build/Debug-iphonesimulator/Tableview.build/DerivedSources/i386" "-I/Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Build/Intermediates/Test.build/Debug-iphonesimulator/Tableview.build/DerivedSources" "-F/Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Build/Products/Debug-iphonesimulator" --serialize-diagnostics "/Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Build/Intermediates/PrecompiledHeaders/Test-Prefix-eutbgocbycasxddoqtiasmpkncct/Test-Prefix.pch.dia" -c "/Users/sravanreddy29/Desktop/untitled folder 6/Test/Test-Prefix.pch" -o "/Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Build/Intermediates/PrecompiledHeaders/Test-Prefix-eutbgocbycasxddoqtiasmpkncct/Test-Prefix.pch.pth" -MMD -MT dependencies -MF "/Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Build/Intermediates/PrecompiledHeaders/Test-Prefix-eutbgocbycasxddoqtiasmpkncct/Test-Prefix.pch.d"36"CEDA1129-628F-44D8-BB58-3FD74A646208-
+
+CProcessPCH "/Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Index/PrecompiledHeaders/Test-Prefix-dwqqtriqmkvbtngvlxsreliiqgxe_ast/Test-Prefix.pch.pth" Test/Test-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /Users/sravanreddy29/Desktop/LivingSocial/Products/Test/Build/Intermediates/PrecompiledHeaders/Test-Prefix-aancvdfrypbkckcrjpwqsvpnndna/Test-Prefix.pch.pth Test/Test-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.analyzer
+s370562283.842889
+e370562284.142794
+r1
+xProcessPCH
+x/Users/sravanreddy29/Desktop/LivingSocial/Products/Test/Build/Intermediates/PrecompiledHeaders/Test-Prefix-aancvdfrypbkckcrjpwqsvpnndna/Test-Prefix.pch.pth
+xTest/Test-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.analyzer
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection31"Precompile Test/Test-Prefix.pch65e1d7eb5416b641^a08d24ec5416b641^---0#0#0#-19%DVTDocumentLocation2@78"file://localhost/Users/sravanreddy29/Desktop/LivingSocial/Test/Test-Prefix.pch0000000000000000^3381"ProcessPCH Products/Test/Build/Intermediates/PrecompiledHeaders/Test-Prefix-aancvdfrypbkckcrjpwqsvpnndna/Test-Prefix.pch.pth Test/Test-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.analyzer    cd /Users/sravanreddy29/Desktop/LivingSocial    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -Xclang -analyzer-disable-checker -Xclang deadcode.IdempotentOperations -Xclang -analyzer-checker -Xclang osx.cocoa.experimental.SelfInit -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/sravanreddy29/Desktop/LivingSocial/Products/Test/Build/Intermediates/Test.build/Debug-iphonesimulator/Tableview.build/Tableview-generated-files.hmap -I/Users/sravanreddy29/Desktop/LivingSocial/Products/Test/Build/Intermediates/Test.build/Debug-iphonesimulator/Tableview.build/Tableview-own-target-headers.hmap -I/Users/sravanreddy29/Desktop/LivingSocial/Products/Test/Build/Intermediates/Test.build/Debug-iphonesimulator/Tableview.build/Tableview-all-target-headers.hmap -iquote /Users/sravanreddy29/Desktop/LivingSocial/Products/Test/Build/Intermediates/Test.build/Debug-iphonesimulator/Tableview.build/Tableview-project-headers.hmap -I/Users/sravanreddy29/Desktop/LivingSocial/Products/Test/Build/Products/Debug-iphonesimulator/include -I/Users/sravanreddy29/Desktop/LivingSocial/Products/Test/Build/Intermediates/Test.build/Debug-iphonesimulator/Tableview.build/DerivedSources/i386 -I/Users/sravanreddy29/Desktop/LivingSocial/Products/Test/Build/Intermediates/Test.build/Debug-iphonesimulator/Tableview.build/DerivedSources -F/Users/sravanreddy29/Desktop/LivingSocial/Products/Test/Build/Products/Debug-iphonesimulator -c /Users/sravanreddy29/Desktop/LivingSocial/Test/Test-Prefix.pch -o /Users/sravanreddy29/Desktop/LivingSocial/Products/Test/Build/Intermediates/PrecompiledHeaders/Test-Prefix-aancvdfrypbkckcrjpwqsvpnndna/Test-Prefix.pch.pth -MMD -MT dependencies -MF /Users/sravanreddy29/Desktop/LivingSocial/Products/Test/Build/Intermediates/PrecompiledHeaders/Test-Prefix-aancvdfrypbkckcrjpwqsvpnndna/Test-Prefix.pch.d36"E23052D1-D178-4910-8E6B-099A4801EE60-
+
+CProcessPCH /Users/sravanreddy29/Desktop/LivingSocial/Products/Test/Build/Intermediates/PrecompiledHeaders/Test-Prefix-gccizeiqonqmlbfmpmjxfxhrdama/Test-Prefix.pch.pth Test/Test-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s370562278.598167
+e370562278.878320
+r1
+xProcessPCH
+x/Users/sravanreddy29/Desktop/LivingSocial/Products/Test/Build/Intermediates/PrecompiledHeaders/Test-Prefix-gccizeiqonqmlbfmpmjxfxhrdama/Test-Prefix.pch.pth
+xTest/Test-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection31"Precompile Test/Test-Prefix.pch753999e65416b641^d7d9e0e65416b641^---0#0#0#-19%DVTDocumentLocation2@78"file://localhost/Users/sravanreddy29/Desktop/LivingSocial/Test/Test-Prefix.pch0000000000000000^3423"ProcessPCH Products/Test/Build/Intermediates/PrecompiledHeaders/Test-Prefix-gccizeiqonqmlbfmpmjxfxhrdama/Test-Prefix.pch.pth Test/Test-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/sravanreddy29/Desktop/LivingSocial    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/sravanreddy29/Desktop/LivingSocial/Products/Test/Build/Intermediates/Test.build/Debug-iphonesimulator/Tableview.build/Tableview-generated-files.hmap -I/Users/sravanreddy29/Desktop/LivingSocial/Products/Test/Build/Intermediates/Test.build/Debug-iphonesimulator/Tableview.build/Tableview-own-target-headers.hmap -I/Users/sravanreddy29/Desktop/LivingSocial/Products/Test/Build/Intermediates/Test.build/Debug-iphonesimulator/Tableview.build/Tableview-all-target-headers.hmap -iquote /Users/sravanreddy29/Desktop/LivingSocial/Products/Test/Build/Intermediates/Test.build/Debug-iphonesimulator/Tableview.build/Tableview-project-headers.hmap -I/Users/sravanreddy29/Desktop/LivingSocial/Products/Test/Build/Products/Debug-iphonesimulator/include -I/Users/sravanreddy29/Desktop/LivingSocial/Products/Test/Build/Intermediates/Test.build/Debug-iphonesimulator/Tableview.build/DerivedSources/i386 -I/Users/sravanreddy29/Desktop/LivingSocial/Products/Test/Build/Intermediates/Test.build/Debug-iphonesimulator/Tableview.build/DerivedSources -F/Users/sravanreddy29/Desktop/LivingSocial/Products/Test/Build/Products/Debug-iphonesimulator --serialize-diagnostics /Users/sravanreddy29/Desktop/LivingSocial/Products/Test/Build/Intermediates/PrecompiledHeaders/Test-Prefix-gccizeiqonqmlbfmpmjxfxhrdama/Test-Prefix.pch.dia -c /Users/sravanreddy29/Desktop/LivingSocial/Test/Test-Prefix.pch -o /Users/sravanreddy29/Desktop/LivingSocial/Products/Test/Build/Intermediates/PrecompiledHeaders/Test-Prefix-gccizeiqonqmlbfmpmjxfxhrdama/Test-Prefix.pch.pth -MMD -MT dependencies -MF /Users/sravanreddy29/Desktop/LivingSocial/Products/Test/Build/Intermediates/PrecompiledHeaders/Test-Prefix-gccizeiqonqmlbfmpmjxfxhrdama/Test-Prefix.pch.d36"4ED98669-7ECB-4FD5-AB20-5AACF22D0E60-
+
+CProcessPCH /Users/sravanreddy29/Desktop/LivingSocial/Products/Test/Index/PrecompiledHeaders/Test-Prefix-cadiqotsszwmgecyafpigdsefykn_ast/Test-Prefix.pch.pth Test/Test-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CTouch "/Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Build/Products/Debug-iphonesimulator/Tableview.app"
+s370562216.730371
+e370562216.742285
+r1
+xTouch
+x/Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Build/Products/Debug-iphonesimulator/Tableview.app
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection117"Touch /Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Build/Products/Debug-iphonesimulator/Tableview.app4e0ebba85416b641^8335bea85416b641^---0#0#0#--458"Touch Products/Test/Build/Products/Debug-iphonesimulator/Tableview.app    cd "/Users/sravanreddy29/Desktop/untitled folder 6"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Build/Products/Debug-iphonesimulator/Tableview.app"36"06912EDF-1D27-4660-B134-18F290A32E1F-
+
+CTouch /Users/sravanreddy29/Desktop/LivingSocial/Products/Test/Build/Products/Debug-iphonesimulator/Tableview.app
+s370562533.351027
+e370562533.355766
+r1
+xTouch
+x/Users/sravanreddy29/Desktop/LivingSocial/Products/Test/Build/Products/Debug-iphonesimulator/Tableview.app
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection112"Touch /Users/sravanreddy29/Desktop/LivingSocial/Products/Test/Build/Products/Debug-iphonesimulator/Tableview.appa7e759e55516b641^f9155be55516b641^---0#0#0#--444"Touch Products/Test/Build/Products/Debug-iphonesimulator/Tableview.app    cd /Users/sravanreddy29/Desktop/LivingSocial    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/sravanreddy29/Desktop/LivingSocial/Products/Test/Build/Products/Debug-iphonesimulator/Tableview.app36"7A422F39-0B90-400E-B0FF-0F06A226E7DC-
+

@@ -1,0 +1,395 @@
+TTableview
+v5
+r1
+cCheck dependencies
+cProcessInfoPlistFile "/Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Build/Products/Release-iphonesimulator/Tableview.app/Info.plist" Test/Test-Info.plist
+cProcessPCH "/Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Build/Intermediates/PrecompiledHeaders/Test-Prefix-edlmxmzdqsxvnsfitnkbboczbezb/Test-Prefix.pch.pth" Test/Test-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Products/Test/Build/Intermediates/Test.build/Release-iphonesimulator/Tableview.build/Objects-normal/i386/main.o "/Users/sravanreddy29/Desktop/untitled folder 6/Test/main.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Products/Test/Build/Intermediates/Test.build/Release-iphonesimulator/Tableview.build/Objects-normal/i386/AppDelegate.o "/Users/sravanreddy29/Desktop/untitled folder 6/Test/AppDelegate.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Products/Test/Build/Intermediates/Test.build/Release-iphonesimulator/Tableview.build/Objects-normal/i386/ViewController.o "/Users/sravanreddy29/Desktop/untitled folder 6/Test/ViewController.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Products/Test/Build/Intermediates/Test.build/Release-iphonesimulator/Tableview.build/Objects-normal/i386/MyCustomcell.o "/Users/sravanreddy29/Desktop/untitled folder 6/Test/MyCustomcell.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd "/Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Build/Products/Release-iphonesimulator/Tableview.app/Tableview" normal i386
+cGenerateDSYMFile "/Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Build/Products/Release-iphonesimulator/Tableview.app.dSYM" "/Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Build/Products/Release-iphonesimulator/Tableview.app/Tableview"
+cCopyStringsFile "/Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Build/Products/Release-iphonesimulator/Tableview.app/en.lproj/InfoPlist.strings" Test/en.lproj/InfoPlist.strings
+cCompileXIB "/Users/sravanreddy29/Desktop/untitled folder 6/Test/en.lproj/ViewController.xib"
+cCompileXIB "/Users/sravanreddy29/Desktop/untitled folder 6/Test/MyCustomcell.xib"
+cCpResource Test/no.gif Products/Test/Build/Products/Release-iphonesimulator/Tableview.app/no.gif
+cCpResource test.png Products/Test/Build/Products/Release-iphonesimulator/Tableview.app/test.png
+cTouch "/Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Build/Products/Release-iphonesimulator/Tableview.app"
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk
+c000000004F453DF80000000000000110
+t1329937912
+s272
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004FD4C0F40000000000244490
+t1339343092
+s2376848
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004FD4C0F40000000000353830
+t1339343092
+s3487792
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004FD4C0F90000000000905E40
+t1339343097
+s9461312
+
+N/Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Build/Intermediates/PrecompiledHeaders/Test-Prefix-edlmxmzdqsxvnsfitnkbboczbezb/Test-Prefix.pch.pth
+t2
+s0
+
+N/Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Build/Intermediates/Test.build/Release-iphonesimulator/Tableview.build/Objects-normal/i386/AppDelegate.o
+t2
+s0
+
+N/Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Build/Intermediates/Test.build/Release-iphonesimulator/Tableview.build/Objects-normal/i386/MyCustomcell.o
+t2
+s0
+
+N/Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Build/Intermediates/Test.build/Release-iphonesimulator/Tableview.build/Objects-normal/i386/Tableview.LinkFileList
+c0000000050661B960000000000000295
+t1348869014
+s661
+
+N/Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Build/Intermediates/Test.build/Release-iphonesimulator/Tableview.build/Objects-normal/i386/ViewController.o
+t2
+s0
+
+N/Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Build/Intermediates/Test.build/Release-iphonesimulator/Tableview.build/Objects-normal/i386/main.o
+t2
+s0
+
+N/Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Build/Products/Release-iphonesimulator/Tableview.app
+t2
+s0
+
+N/Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Build/Products/Release-iphonesimulator/Tableview.app.dSYM
+t2
+s0
+
+N/Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Build/Products/Release-iphonesimulator/Tableview.app/Info.plist
+t2
+s0
+
+N/Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Build/Products/Release-iphonesimulator/Tableview.app/MyCustomcell.nib
+t2
+s0
+
+N/Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Build/Products/Release-iphonesimulator/Tableview.app/PkgInfo
+t2
+s0
+
+N/Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Build/Products/Release-iphonesimulator/Tableview.app/Tableview
+t2
+s0
+
+N/Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Build/Products/Release-iphonesimulator/Tableview.app/en.lproj/InfoPlist.strings
+t2
+s0
+
+N/Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Build/Products/Release-iphonesimulator/Tableview.app/en.lproj/ViewController.nib
+t2
+s0
+
+N/Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Build/Products/Release-iphonesimulator/Tableview.app/no.gif
+t2
+s0
+
+N/Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Build/Products/Release-iphonesimulator/Tableview.app/test.png
+t2
+s0
+
+N/Users/sravanreddy29/Desktop/untitled folder 6/Test/AppDelegate.m
+c00000000506330F50000000000000950
+t1348677877
+s2384
+
+N/Users/sravanreddy29/Desktop/untitled folder 6/Test/MyCustomcell.m
+c000000005064ACB200000000000003F3
+t1348775090
+s1011
+
+N/Users/sravanreddy29/Desktop/untitled folder 6/Test/MyCustomcell.xib
+c000000005065E3250000000000004034
+t1348854565
+s16436
+
+N/Users/sravanreddy29/Desktop/untitled folder 6/Test/Test-Prefix.pch
+c00000000506330F50000000000000137
+t1348677877
+s311
+
+N/Users/sravanreddy29/Desktop/untitled folder 6/Test/ViewController.m
+c00000000506616280000000000001349
+t1348867624
+s4937
+
+N/Users/sravanreddy29/Desktop/untitled folder 6/Test/en.lproj/InfoPlist.strings
+c00000000506330F5000000000000002D
+t1348677877
+s45
+
+N/Users/sravanreddy29/Desktop/untitled folder 6/Test/en.lproj/ViewController.xib
+c000000005065B233000000000000266C
+t1348842035
+s9836
+
+N/Users/sravanreddy29/Desktop/untitled folder 6/Test/main.m
+c00000000506330F50000000000000154
+t1348677877
+s340
+
+N/Users/sravanreddy29/Desktop/untitled folder 6/Test/no.gif
+c000000005065DE6E0000000000000F37
+t1348853358
+s3895
+
+N/Users/sravanreddy29/Desktop/untitled folder 6/test.png
+c000000005066179D000000000000334A
+t1348867997
+s13130
+
+NTest/Test-Info.plist
+c00000000506617B0000000000000053F
+t1348868016
+s1343
+
+CBuild AST from "/Users/sravanreddy29/Desktop/untitled folder 6/Test/AppDelegate.m"
+r0
+
+CBuild AST from "/Users/sravanreddy29/Desktop/untitled folder 6/Test/MyCustomcell.m"
+r0
+
+CBuild AST from "/Users/sravanreddy29/Desktop/untitled folder 6/Test/ViewController.m"
+r0
+
+CBuild AST from "/Users/sravanreddy29/Desktop/untitled folder 6/Test/main.m"
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies58e221165316b641^8e9039165316b641^---0#1#0#--18"Check dependencies36"01436708-C65D-45FC-9ABF-39CE8266AB26-
+
+CCompileC Products/Test/Build/Intermediates/Test.build/Release-iphonesimulator/Tableview.build/Objects-normal/i386/AppDelegate.o "/Users/sravanreddy29/Desktop/untitled folder 6/Test/AppDelegate.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s370561815.973954
+e370561816.445448
+r1
+xCompileC
+xProducts/Test/Build/Intermediates/Test.build/Release-iphonesimulator/Tableview.build/Objects-normal/i386/AppDelegate.o
+x/Users/sravanreddy29/Desktop/untitled folder 6/Test/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection73"Compile /Users/sravanreddy29/Desktop/untitled folder 6/Test/AppDelegate.mce6ef9175316b641^af0872185316b641^---0#0#0#-19%DVTDocumentLocation2@85"file://localhost/Users/sravanreddy29/Desktop/untitled%20folder%206/Test/AppDelegate.m0000000000000000^3743"CompileC Products/Test/Build/Intermediates/Test.build/Release-iphonesimulator/Tableview.build/Objects-normal/i386/AppDelegate.o Test/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/sravanreddy29/Desktop/untitled folder 6"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -fvisibility=hidden -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Build/Intermediates/Test.build/Release-iphonesimulator/Tableview.build/Tableview-generated-files.hmap" "-I/Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Build/Intermediates/Test.build/Release-iphonesimulator/Tableview.build/Tableview-own-target-headers.hmap" "-I/Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Build/Intermediates/Test.build/Release-iphonesimulator/Tableview.build/Tableview-all-target-headers.hmap" -iquote "/Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Build/Intermediates/Test.build/Release-iphonesimulator/Tableview.build/Tableview-project-headers.hmap" "-I/Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Build/Products/Release-iphonesimulator/include" "-I/Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Build/Intermediates/Test.build/Release-iphonesimulator/Tableview.build/DerivedSources/i386" "-I/Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Build/Intermediates/Test.build/Release-iphonesimulator/Tableview.build/DerivedSources" "-F/Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Build/Products/Release-iphonesimulator" -DNS_BLOCK_ASSERTIONS=1 -include "/Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Build/Intermediates/PrecompiledHeaders/Test-Prefix-edlmxmzdqsxvnsfitnkbboczbezb/Test-Prefix.pch" -MMD -MT dependencies -MF "/Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Build/Intermediates/Test.build/Release-iphonesimulator/Tableview.build/Objects-normal/i386/AppDelegate.d" --serialize-diagnostics "/Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Build/Intermediates/Test.build/Release-iphonesimulator/Tableview.build/Objects-normal/i386/AppDelegate.dia" -c "/Users/sravanreddy29/Desktop/untitled folder 6/Test/AppDelegate.m" -o "/Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Build/Intermediates/Test.build/Release-iphonesimulator/Tableview.build/Objects-normal/i386/AppDelegate.o"36"BFCA1B5E-8CCE-4E5C-9332-A30347997574-
+
+CCompileC Products/Test/Build/Intermediates/Test.build/Release-iphonesimulator/Tableview.build/Objects-normal/i386/MyCustomcell.o "/Users/sravanreddy29/Desktop/untitled folder 6/Test/MyCustomcell.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s370561815.974448
+e370561816.467105
+r1
+xCompileC
+xProducts/Test/Build/Intermediates/Test.build/Release-iphonesimulator/Tableview.build/Objects-normal/i386/MyCustomcell.o
+x/Users/sravanreddy29/Desktop/untitled folder 6/Test/MyCustomcell.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection74"Compile /Users/sravanreddy29/Desktop/untitled folder 6/Test/MyCustomcell.m938bf9175316b641^709577185316b641^---0#0#0#-19%DVTDocumentLocation2@86"file://localhost/Users/sravanreddy29/Desktop/untitled%20folder%206/Test/MyCustomcell.m0000000000000000^3749"CompileC Products/Test/Build/Intermediates/Test.build/Release-iphonesimulator/Tableview.build/Objects-normal/i386/MyCustomcell.o Test/MyCustomcell.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/sravanreddy29/Desktop/untitled folder 6"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -fvisibility=hidden -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Build/Intermediates/Test.build/Release-iphonesimulator/Tableview.build/Tableview-generated-files.hmap" "-I/Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Build/Intermediates/Test.build/Release-iphonesimulator/Tableview.build/Tableview-own-target-headers.hmap" "-I/Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Build/Intermediates/Test.build/Release-iphonesimulator/Tableview.build/Tableview-all-target-headers.hmap" -iquote "/Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Build/Intermediates/Test.build/Release-iphonesimulator/Tableview.build/Tableview-project-headers.hmap" "-I/Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Build/Products/Release-iphonesimulator/include" "-I/Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Build/Intermediates/Test.build/Release-iphonesimulator/Tableview.build/DerivedSources/i386" "-I/Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Build/Intermediates/Test.build/Release-iphonesimulator/Tableview.build/DerivedSources" "-F/Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Build/Products/Release-iphonesimulator" -DNS_BLOCK_ASSERTIONS=1 -include "/Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Build/Intermediates/PrecompiledHeaders/Test-Prefix-edlmxmzdqsxvnsfitnkbboczbezb/Test-Prefix.pch" -MMD -MT dependencies -MF "/Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Build/Intermediates/Test.build/Release-iphonesimulator/Tableview.build/Objects-normal/i386/MyCustomcell.d" --serialize-diagnostics "/Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Build/Intermediates/Test.build/Release-iphonesimulator/Tableview.build/Objects-normal/i386/MyCustomcell.dia" -c "/Users/sravanreddy29/Desktop/untitled folder 6/Test/MyCustomcell.m" -o "/Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Build/Intermediates/Test.build/Release-iphonesimulator/Tableview.build/Objects-normal/i386/MyCustomcell.o"36"BC112D9B-5EF4-412B-9020-B6C56AEA6830-
+
+CCompileC Products/Test/Build/Intermediates/Test.build/Release-iphonesimulator/Tableview.build/Objects-normal/i386/ViewController.o "/Users/sravanreddy29/Desktop/untitled folder 6/Test/ViewController.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s370561815.974409
+e370561816.447983
+r1
+xCompileC
+xProducts/Test/Build/Intermediates/Test.build/Release-iphonesimulator/Tableview.build/Objects-normal/i386/ViewController.o
+x/Users/sravanreddy29/Desktop/untitled folder 6/Test/ViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+o/Users/sravanreddy29/Desktop/untitled folder 6/Test/ViewController.m:23:17: warning: property 'textsite' requires method 'textsite' to be defined - use @synthesize, @dynamic or provide a method implementation in this class implementation
+o@implementation ViewController
+o                ^
+o/Users/sravanreddy29/Desktop/untitled folder 6/Test/ViewController.h:30:49: note: property declared here
+o@property (nonatomic, strong) IBOutlet UILabel *textsite;
+o                                                ^
+o/Users/sravanreddy29/Desktop/untitled folder 6/Test/ViewController.m:23:17: warning: property 'textsite' requires method 'setTextsite:' to be defined - use @synthesize, @dynamic or provide a method implementation in this class implementation
+o@implementation ViewController
+o                ^
+o/Users/sravanreddy29/Desktop/untitled folder 6/Test/ViewController.h:30:49: note: property declared here
+o@property (nonatomic, strong) IBOutlet UILabel *textsite;
+o                                                ^
+o/Users/sravanreddy29/Desktop/untitled folder 6/Test/ViewController.m:23:17: warning: property 'BthumbnailImage' requires method 'BthumbnailImage' to be defined - use @synthesize, @dynamic or provide a method implementation in this class implementation
+o@implementation ViewController
+o                ^
+o/Users/sravanreddy29/Desktop/untitled folder 6/Test/ViewController.h:31:53: note: property declared here
+o@property (nonatomic, strong) IBOutlet UIImageView *BthumbnailImage;
+o                                                    ^
+o/Users/sravanreddy29/Desktop/untitled folder 6/Test/ViewController.m:23:17: warning: property 'BthumbnailImage' requires method 'setBthumbnailImage:' to be defined - use @synthesize, @dynamic or provide a method implementation in this class implementation
+o@implementation ViewController
+o                ^
+o/Users/sravanreddy29/Desktop/untitled folder 6/Test/ViewController.h:31:53: note: property declared here
+o@property (nonatomic, strong) IBOutlet UIImageView *BthumbnailImage;
+o                                                    ^
+o/Users/sravanreddy29/Desktop/untitled folder 6/Test/ViewController.m:23:17: warning: property 'text2' requires method 'text2' to be defined - use @synthesize, @dynamic or provide a method implementation in this class implementation
+o@implementation ViewController
+o                ^
+o/Users/sravanreddy29/Desktop/untitled folder 6/Test/ViewController.h:28:49: note: property declared here
+o@property (nonatomic, strong) IBOutlet UILabel *text2;
+o                                                ^
+o/Users/sravanreddy29/Desktop/untitled folder 6/Test/ViewController.m:23:17: warning: property 'text2' requires method 'setText2:' to be defined - use @synthesize, @dynamic or provide a method implementation in this class implementation
+o@implementation ViewController
+o                ^
+o/Users/sravanreddy29/Desktop/untitled folder 6/Test/ViewController.h:28:49: note: property declared here
+o@property (nonatomic, strong) IBOutlet UILabel *text2;
+o                                                ^
+o/Users/sravanreddy29/Desktop/untitled folder 6/Test/ViewController.m:23:17: warning: property 'text1' requires method 'text1' to be defined - use @synthesize, @dynamic or provide a method implementation in this class implementation
+o@implementation ViewController
+o                ^
+o/Users/sravanreddy29/Desktop/untitled folder 6/Test/ViewController.h:27:49: note: property declared here
+o@property (nonatomic, strong) IBOutlet UILabel *text1;
+o                                                ^
+o/Users/sravanreddy29/Desktop/untitled folder 6/Test/ViewController.m:23:17: warning: property 'text1' requires method 'setText1:' to be defined - use @synthesize, @dynamic or provide a method implementation in this class implementation
+o@implementation ViewController
+o                ^
+o/Users/sravanreddy29/Desktop/untitled folder 6/Test/ViewController.h:27:49: note: property declared here
+o@property (nonatomic, strong) IBOutlet UILabel *text1;
+o                                                ^
+o/Users/sravanreddy29/Desktop/untitled folder 6/Test/ViewController.m:23:17: warning: property 'textname' requires method 'textname' to be defined - use @synthesize, @dynamic or provide a method implementation in this class implementation
+o@implementation ViewController
+o                ^
+o/Users/sravanreddy29/Desktop/untitled folder 6/Test/ViewController.h:29:49: note: property declared here
+o@property (nonatomic, strong) IBOutlet UILabel *textname;
+o                                                ^
+o/Users/sravanreddy29/Desktop/untitled folder 6/Test/ViewController.m:23:17: warning: property 'textname' requires method 'setTextname:' to be defined - use @synthesize, @dynamic or provide a method implementation in this class implementation
+o@implementation ViewController
+o                ^
+o/Users/sravanreddy29/Desktop/untitled folder 6/Test/ViewController.h:29:49: note: property declared here
+o@property (nonatomic, strong) IBOutlet UILabel *textname;
+o                                                ^
+o/Users/sravanreddy29/Desktop/untitled folder 6/Test/ViewController.m:23:17: warning: property 'SthumbnailImage' requires method 'SthumbnailImage' to be defined - use @synthesize, @dynamic or provide a method implementation in this class implementation
+o@implementation ViewController
+o                ^
+o/Users/sravanreddy29/Desktop/untitled folder 6/Test/ViewController.h:32:53: note: property declared here
+o@property (nonatomic, strong) IBOutlet UIImageView *SthumbnailImage;
+o                                                    ^
+o/Users/sravanreddy29/Desktop/untitled folder 6/Test/ViewController.m:23:17: warning: property 'SthumbnailImage' requires method 'setSthumbnailImage:' to be defined - use @synthesize, @dynamic or provide a method implementation in this class implementation
+o@implementation ViewController
+o                ^
+o/Users/sravanreddy29/Desktop/untitled folder 6/Test/ViewController.h:32:53: note: property declared here
+o@property (nonatomic, strong) IBOutlet UIImageView *SthumbnailImage;
+o                                                    ^
+o12 warnings generated.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection76"Compile /Users/sravanreddy29/Desktop/untitled folder 6/Test/ViewController.mad89f9175316b641^5cae72185316b641^-6127"/Users/sravanreddy29/Desktop/untitled folder 6/Test/ViewController.m:23:17: warning: property 'textsite' requires method 'textsite' to be defined - use @synthesize, @dynamic or provide a method implementation in this class implementation@implementation ViewController                ^/Users/sravanreddy29/Desktop/untitled folder 6/Test/ViewController.h:30:49: note: property declared here@property (nonatomic, strong) IBOutlet UILabel *textsite;                                                ^/Users/sravanreddy29/Desktop/untitled folder 6/Test/ViewController.m:23:17: warning: property 'textsite' requires method 'setTextsite:' to be defined - use @synthesize, @dynamic or provide a method implementation in this class implementation@implementation ViewController                ^/Users/sravanreddy29/Desktop/untitled folder 6/Test/ViewController.h:30:49: note: property declared here@property (nonatomic, strong) IBOutlet UILabel *textsite;                                                ^/Users/sravanreddy29/Desktop/untitled folder 6/Test/ViewController.m:23:17: warning: property 'BthumbnailImage' requires method 'BthumbnailImage' to be defined - use @synthesize, @dynamic or provide a method implementation in this class implementation@implementation ViewController                ^/Users/sravanreddy29/Desktop/untitled folder 6/Test/ViewController.h:31:53: note: property declared here@property (nonatomic, strong) IBOutlet UIImageView *BthumbnailImage;                                                    ^/Users/sravanreddy29/Desktop/untitled folder 6/Test/ViewController.m:23:17: warning: property 'BthumbnailImage' requires method 'setBthumbnailImage:' to be defined - use @synthesize, @dynamic or provide a method implementation in this class implementation@implementation ViewController                ^/Users/sravanreddy29/Desktop/untitled folder 6/Test/ViewController.h:31:53: note: property declared here@property (nonatomic, strong) IBOutlet UIImageView *BthumbnailImage;                                                    ^/Users/sravanreddy29/Desktop/untitled folder 6/Test/ViewController.m:23:17: warning: property 'text2' requires method 'text2' to be defined - use @synthesize, @dynamic or provide a method implementation in this class implementation@implementation ViewController                ^/Users/sravanreddy29/Desktop/untitled folder 6/Test/ViewController.h:28:49: note: property declared here@property (nonatomic, strong) IBOutlet UILabel *text2;                                                ^/Users/sravanreddy29/Desktop/untitled folder 6/Test/ViewController.m:23:17: warning: property 'text2' requires method 'setText2:' to be defined - use @synthesize, @dynamic or provide a method implementation in this class implementation@implementation ViewController                ^/Users/sravanreddy29/Desktop/untitled folder 6/Test/ViewController.h:28:49: note: property declared here@property (nonatomic, strong) IBOutlet UILabel *text2;                                                ^/Users/sravanreddy29/Desktop/untitled folder 6/Test/ViewController.m:23:17: warning: property 'text1' requires method 'text1' to be defined - use @synthesize, @dynamic or provide a method implementation in this class implementation@implementation ViewController                ^/Users/sravanreddy29/Desktop/untitled folder 6/Test/ViewController.h:27:49: note: property declared here@property (nonatomic, strong) IBOutlet UILabel *text1;                                                ^/Users/sravanreddy29/Desktop/untitled folder 6/Test/ViewController.m:23:17: warning: property 'text1' requires method 'setText1:' to be defined - use @synthesize, @dynamic or provide a method implementation in this class implementation@implementation ViewController                ^/Users/sravanreddy29/Desktop/untitled folder 6/Test/ViewController.h:27:49: note: property declared here@property (nonatomic, strong) IBOutlet UILabel *text1;                                                ^/Users/sravanreddy29/Desktop/untitled folder 6/Test/ViewController.m:23:17: warning: property 'textname' requires method 'textname' to be defined - use @synthesize, @dynamic or provide a method implementation in this class implementation@implementation ViewController                ^/Users/sravanreddy29/Desktop/untitled folder 6/Test/ViewController.h:29:49: note: property declared here@property (nonatomic, strong) IBOutlet UILabel *textname;                                                ^/Users/sravanreddy29/Desktop/untitled folder 6/Test/ViewController.m:23:17: warning: property 'textname' requires method 'setTextname:' to be defined - use @synthesize, @dynamic or provide a method implementation in this class implementation@implementation ViewController                ^/Users/sravanreddy29/Desktop/untitled folder 6/Test/ViewController.h:29:49: note: property declared here@property (nonatomic, strong) IBOutlet UILabel *textname;                                                ^/Users/sravanreddy29/Desktop/untitled folder 6/Test/ViewController.m:23:17: warning: property 'SthumbnailImage' requires method 'SthumbnailImage' to be defined - use @synthesize, @dynamic or provide a method implementation in this class implementation@implementation ViewController                ^/Users/sravanreddy29/Desktop/untitled folder 6/Test/ViewController.h:32:53: note: property declared here@property (nonatomic, strong) IBOutlet UIImageView *SthumbnailImage;                                                    ^/Users/sravanreddy29/Desktop/untitled folder 6/Test/ViewController.m:23:17: warning: property 'SthumbnailImage' requires method 'setSthumbnailImage:' to be defined - use @synthesize, @dynamic or provide a method implementation in this class implementation@implementation ViewController                ^/Users/sravanreddy29/Desktop/untitled folder 6/Test/ViewController.h:32:53: note: property declared here@property (nonatomic, strong) IBOutlet UIImageView *SthumbnailImage;                                                    ^12 warnings generated.12(36%IDEClangDiagnosticActivityLogMessage2@152"Property 'textsite' requires method 'textsite' to be defined - use @synthesize, @dynamic or provide a method implementation in this class implementation-370561816#18446744073709551615#0#1(2@22"Property declared here-370561816#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@88"file://localhost/Users/sravanreddy29/Desktop/untitled%20folder%206/Test/ViewController.h0000000000000000^29#48#29#48#747#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@88"file://localhost/Users/sravanreddy29/Desktop/untitled%20folder%206/Test/ViewController.m0000000000000000^22#16#22#16#438#0#14"Semantic Issue--2@156"Property 'textsite' requires method 'setTextsite:' to be defined - use @synthesize, @dynamic or provide a method implementation in this class implementation-370561816#18446744073709551615#0#1(2@22"Property declared here-370561816#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@88"file://localhost/Users/sravanreddy29/Desktop/untitled%20folder%206/Test/ViewController.h0000000000000000^29#48#29#48#747#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@88"file://localhost/Users/sravanreddy29/Desktop/untitled%20folder%206/Test/ViewController.m0000000000000000^22#16#22#16#438#0#14"Semantic Issue--2@166"Property 'BthumbnailImage' requires method 'BthumbnailImage' to be defined - use @synthesize, @dynamic or provide a method implementation in this class implementation-370561816#18446744073709551615#0#1(2@22"Property declared here-370561816#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@88"file://localhost/Users/sravanreddy29/Desktop/untitled%20folder%206/Test/ViewController.h0000000000000000^30#52#30#52#809#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@88"file://localhost/Users/sravanreddy29/Desktop/untitled%20folder%206/Test/ViewController.m0000000000000000^22#16#22#16#438#0#14"Semantic Issue--2@170"Property 'BthumbnailImage' requires method 'setBthumbnailImage:' to be defined - use @synthesize, @dynamic or provide a method implementation in this class implementation-370561816#18446744073709551615#0#1(2@22"Property declared here-370561816#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@88"file://localhost/Users/sravanreddy29/Desktop/untitled%20folder%206/Test/ViewController.h0000000000000000^30#52#30#52#809#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@88"file://localhost/Users/sravanreddy29/Desktop/untitled%20folder%206/Test/ViewController.m0000000000000000^22#16#22#16#438#0#14"Semantic Issue--2@146"Property 'text2' requires method 'text2' to be defined - use @synthesize, @dynamic or provide a method implementation in this class implementation-370561816#18446744073709551615#0#1(2@22"Property declared here-370561816#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@88"file://localhost/Users/sravanreddy29/Desktop/untitled%20folder%206/Test/ViewController.h0000000000000000^27#48#27#48#634#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@88"file://localhost/Users/sravanreddy29/Desktop/untitled%20folder%206/Test/ViewController.m0000000000000000^22#16#22#16#438#0#14"Semantic Issue--2@150"Property 'text2' requires method 'setText2:' to be defined - use @synthesize, @dynamic or provide a method implementation in this class implementation-370561816#18446744073709551615#0#1(2@22"Property declared here-370561816#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@88"file://localhost/Users/sravanreddy29/Desktop/untitled%20folder%206/Test/ViewController.h0000000000000000^27#48#27#48#634#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@88"file://localhost/Users/sravanreddy29/Desktop/untitled%20folder%206/Test/ViewController.m0000000000000000^22#16#22#16#438#0#14"Semantic Issue--2@146"Property 'text1' requires method 'text1' to be defined - use @synthesize, @dynamic or provide a method implementation in this class implementation-370561816#18446744073709551615#0#1(2@22"Property declared here-370561816#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@88"file://localhost/Users/sravanreddy29/Desktop/untitled%20folder%206/Test/ViewController.h0000000000000000^26#48#26#48#579#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@88"file://localhost/Users/sravanreddy29/Desktop/untitled%20folder%206/Test/ViewController.m0000000000000000^22#16#22#16#438#0#14"Semantic Issue--2@150"Property 'text1' requires method 'setText1:' to be defined - use @synthesize, @dynamic or provide a method implementation in this class implementation-370561816#18446744073709551615#0#1(2@22"Property declared here-370561816#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@88"file://localhost/Users/sravanreddy29/Desktop/untitled%20folder%206/Test/ViewController.h0000000000000000^26#48#26#48#579#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@88"file://localhost/Users/sravanreddy29/Desktop/untitled%20folder%206/Test/ViewController.m0000000000000000^22#16#22#16#438#0#14"Semantic Issue--2@152"Property 'textname' requires method 'textname' to be defined - use @synthesize, @dynamic or provide a method implementation in this class implementation-370561816#18446744073709551615#0#1(2@22"Property declared here-370561816#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@88"file://localhost/Users/sravanreddy29/Desktop/untitled%20folder%206/Test/ViewController.h0000000000000000^28#48#28#48#689#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@88"file://localhost/Users/sravanreddy29/Desktop/untitled%20folder%206/Test/ViewController.m0000000000000000^22#16#22#16#438#0#14"Semantic Issue--2@156"Property 'textname' requires method 'setTextname:' to be defined - use @synthesize, @dynamic or provide a method implementation in this class implementation-370561816#18446744073709551615#0#1(2@22"Property declared here-370561816#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@88"file://localhost/Users/sravanreddy29/Desktop/untitled%20folder%206/Test/ViewController.h0000000000000000^28#48#28#48#689#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@88"file://localhost/Users/sravanreddy29/Desktop/untitled%20folder%206/Test/ViewController.m0000000000000000^22#16#22#16#438#0#14"Semantic Issue--2@166"Property 'SthumbnailImage' requires method 'SthumbnailImage' to be defined - use @synthesize, @dynamic or provide a method implementation in this class implementation-370561816#18446744073709551615#0#1(2@22"Property declared here-370561816#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@88"file://localhost/Users/sravanreddy29/Desktop/untitled%20folder%206/Test/ViewController.h0000000000000000^31#52#31#52#878#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@88"file://localhost/Users/sravanreddy29/Desktop/untitled%20folder%206/Test/ViewController.m0000000000000000^22#16#22#16#438#0#14"Semantic Issue--2@170"Property 'SthumbnailImage' requires method 'setSthumbnailImage:' to be defined - use @synthesize, @dynamic or provide a method implementation in this class implementation-370561816#18446744073709551615#0#1(2@22"Property declared here-370561816#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@88"file://localhost/Users/sravanreddy29/Desktop/untitled%20folder%206/Test/ViewController.h0000000000000000^31#52#31#52#878#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@88"file://localhost/Users/sravanreddy29/Desktop/untitled%20folder%206/Test/ViewController.m0000000000000000^22#16#22#16#438#0#14"Semantic Issue--0#0#0#-19%DVTDocumentLocation4@88"file://localhost/Users/sravanreddy29/Desktop/untitled%20folder%206/Test/ViewController.m0000000000000000^3761"CompileC Products/Test/Build/Intermediates/Test.build/Release-iphonesimulator/Tableview.build/Objects-normal/i386/ViewController.o Test/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/sravanreddy29/Desktop/untitled folder 6"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -fvisibility=hidden -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Build/Intermediates/Test.build/Release-iphonesimulator/Tableview.build/Tableview-generated-files.hmap" "-I/Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Build/Intermediates/Test.build/Release-iphonesimulator/Tableview.build/Tableview-own-target-headers.hmap" "-I/Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Build/Intermediates/Test.build/Release-iphonesimulator/Tableview.build/Tableview-all-target-headers.hmap" -iquote "/Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Build/Intermediates/Test.build/Release-iphonesimulator/Tableview.build/Tableview-project-headers.hmap" "-I/Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Build/Products/Release-iphonesimulator/include" "-I/Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Build/Intermediates/Test.build/Release-iphonesimulator/Tableview.build/DerivedSources/i386" "-I/Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Build/Intermediates/Test.build/Release-iphonesimulator/Tableview.build/DerivedSources" "-F/Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Build/Products/Release-iphonesimulator" -DNS_BLOCK_ASSERTIONS=1 -include "/Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Build/Intermediates/PrecompiledHeaders/Test-Prefix-edlmxmzdqsxvnsfitnkbboczbezb/Test-Prefix.pch" -MMD -MT dependencies -MF "/Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Build/Intermediates/Test.build/Release-iphonesimulator/Tableview.build/Objects-normal/i386/ViewController.d" --serialize-diagnostics "/Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Build/Intermediates/Test.build/Release-iphonesimulator/Tableview.build/Objects-normal/i386/ViewController.dia" -c "/Users/sravanreddy29/Desktop/untitled folder 6/Test/ViewController.m" -o "/Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Build/Intermediates/Test.build/Release-iphonesimulator/Tableview.build/Objects-normal/i386/ViewController.o"36"4716A0F0-6DB6-47EF-8D67-5AA39B614068-
+
+CCompileC Products/Test/Build/Intermediates/Test.build/Release-iphonesimulator/Tableview.build/Objects-normal/i386/main.o "/Users/sravanreddy29/Desktop/untitled folder 6/Test/main.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s370561815.973934
+e370561816.444182
+r1
+xCompileC
+xProducts/Test/Build/Intermediates/Test.build/Release-iphonesimulator/Tableview.build/Objects-normal/i386/main.o
+x/Users/sravanreddy29/Desktop/untitled folder 6/Test/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection66"Compile /Users/sravanreddy29/Desktop/untitled folder 6/Test/main.m116ff9175316b641^b7b571185316b641^---0#0#0#-19%DVTDocumentLocation2@78"file://localhost/Users/sravanreddy29/Desktop/untitled%20folder%206/Test/main.m0000000000000000^3701"CompileC Products/Test/Build/Intermediates/Test.build/Release-iphonesimulator/Tableview.build/Objects-normal/i386/main.o Test/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/sravanreddy29/Desktop/untitled folder 6"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -fvisibility=hidden -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Build/Intermediates/Test.build/Release-iphonesimulator/Tableview.build/Tableview-generated-files.hmap" "-I/Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Build/Intermediates/Test.build/Release-iphonesimulator/Tableview.build/Tableview-own-target-headers.hmap" "-I/Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Build/Intermediates/Test.build/Release-iphonesimulator/Tableview.build/Tableview-all-target-headers.hmap" -iquote "/Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Build/Intermediates/Test.build/Release-iphonesimulator/Tableview.build/Tableview-project-headers.hmap" "-I/Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Build/Products/Release-iphonesimulator/include" "-I/Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Build/Intermediates/Test.build/Release-iphonesimulator/Tableview.build/DerivedSources/i386" "-I/Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Build/Intermediates/Test.build/Release-iphonesimulator/Tableview.build/DerivedSources" "-F/Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Build/Products/Release-iphonesimulator" -DNS_BLOCK_ASSERTIONS=1 -include "/Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Build/Intermediates/PrecompiledHeaders/Test-Prefix-edlmxmzdqsxvnsfitnkbboczbezb/Test-Prefix.pch" -MMD -MT dependencies -MF "/Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Build/Intermediates/Test.build/Release-iphonesimulator/Tableview.build/Objects-normal/i386/main.d" --serialize-diagnostics "/Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Build/Intermediates/Test.build/Release-iphonesimulator/Tableview.build/Objects-normal/i386/main.dia" -c "/Users/sravanreddy29/Desktop/untitled folder 6/Test/main.m" -o "/Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Build/Intermediates/Test.build/Release-iphonesimulator/Tableview.build/Objects-normal/i386/main.o"36"6BE341F9-570A-4B29-9398-B52CBB401AC8-
+
+CCompileXIB "/Users/sravanreddy29/Desktop/untitled folder 6/Test/MyCustomcell.xib"
+s370561817.245988
+e370561817.542476
+r1
+xCompileXIB
+x/Users/sravanreddy29/Desktop/untitled folder 6/Test/MyCustomcell.xib
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection78"Compiling /Users/sravanreddy29/Desktop/untitled folder 6/Test/MyCustomcell.xiba7053f195316b641^4ce08a195316b641^---0#0#0#-19%DVTDocumentLocation2@88"file://localhost/Users/sravanreddy29/Desktop/untitled%20folder%206/Test/MyCustomcell.xib0000000000000000^887"CompileXIB Test/MyCustomcell.xib    cd "/Users/sravanreddy29/Desktop/untitled folder 6"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Build/Products/Release-iphonesimulator/Tableview.app/MyCustomcell.nib" "/Users/sravanreddy29/Desktop/untitled folder 6/Test/MyCustomcell.xib" --sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk36"35D14EB2-9957-4102-8051-8D64341A811B-
+
+CCompileXIB "/Users/sravanreddy29/Desktop/untitled folder 6/Test/en.lproj/ViewController.xib"
+s370561817.245666
+e370561817.490952
+r1
+xCompileXIB
+x/Users/sravanreddy29/Desktop/untitled folder 6/Test/en.lproj/ViewController.xib
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection89"Compiling /Users/sravanreddy29/Desktop/untitled folder 6/Test/en.lproj/ViewController.xibbbf13e195316b641^08af7d195316b641^---0#0#0#-19%DVTDocumentLocation2@99"file://localhost/Users/sravanreddy29/Desktop/untitled%20folder%206/Test/en.lproj/ViewController.xib0000000000000000^920"CompileXIB Test/en.lproj/ViewController.xib    cd "/Users/sravanreddy29/Desktop/untitled folder 6"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Build/Products/Release-iphonesimulator/Tableview.app/en.lproj/ViewController.nib" "/Users/sravanreddy29/Desktop/untitled folder 6/Test/en.lproj/ViewController.xib" --sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk36"570246EC-1B06-45EA-91AF-E926A46926EA-
+
+CCopyStringsFile "/Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Build/Products/Release-iphonesimulator/Tableview.app/en.lproj/InfoPlist.strings" Test/en.lproj/InfoPlist.strings
+s370561817.245632
+e370561817.292169
+r1
+xCopyStringsFile
+x/Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Build/Products/Release-iphonesimulator/Tableview.app/en.lproj/InfoPlist.strings
+xTest/en.lproj/InfoPlist.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection36"Copy Test/en.lproj/InfoPlist.strings6bf03e195316b641^b8cb4a195316b641^---0#0#0#-19%DVTDocumentLocation2@98"file://localhost/Users/sravanreddy29/Desktop/untitled%20folder%206/Test/en.lproj/InfoPlist.strings0000000000000000^643"CopyStringsFile Products/Test/Build/Products/Release-iphonesimulator/Tableview.app/en.lproj/InfoPlist.strings Test/en.lproj/InfoPlist.strings    cd "/Users/sravanreddy29/Desktop/untitled folder 6"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir "/Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Build/Products/Release-iphonesimulator/Tableview.app/en.lproj" -- Test/en.lproj/InfoPlist.strings36"3F54ECAE-F83A-4D4F-B1B0-FC2DA7079C1C-
+
+CCpResource Test/no.gif Products/Test/Build/Products/Release-iphonesimulator/Tableview.app/no.gif
+s370561817.246003
+e370561817.279698
+r1
+xCpResource
+xTest/no.gif
+xProducts/Test/Build/Products/Release-iphonesimulator/Tableview.app/no.gif
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection78"Copy Products/Test/Build/Products/Release-iphonesimulator/Tableview.app/no.gif53093f195316b641^6b9a47195316b641^---0#0#0#-19%DVTDocumentLocation2@140"file://localhost/Users/sravanreddy29/Desktop/untitled%20folder%206/Products/Test/Build/Products/Release-iphonesimulator/Tableview.app/no.gif000000000080d041^763"CpResource Test/no.gif Products/Test/Build/Products/Release-iphonesimulator/Tableview.app/no.gif    cd "/Users/sravanreddy29/Desktop/untitled folder 6"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -resolve-src-symlinks -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip "/Users/sravanreddy29/Desktop/untitled folder 6/Test/no.gif" "/Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Build/Products/Release-iphonesimulator/Tableview.app"36"B2FAE76A-E3A1-460F-993E-D2EB92F7DED2-
+
+CCpResource test.png Products/Test/Build/Products/Release-iphonesimulator/Tableview.app/test.png
+s370561817.280961
+e370561817.283635
+r1
+xCpResource
+xtest.png
+xProducts/Test/Build/Products/Release-iphonesimulator/Tableview.app/test.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection80"Copy Products/Test/Build/Products/Release-iphonesimulator/Tableview.app/test.pngb1fa47195316b641^a29c48195316b641^---0#0#0#-19%DVTDocumentLocation2@142"file://localhost/Users/sravanreddy29/Desktop/untitled%20folder%206/Products/Test/Build/Products/Release-iphonesimulator/Tableview.app/test.png000000000080d041^759"CpResource test.png Products/Test/Build/Products/Release-iphonesimulator/Tableview.app/test.png    cd "/Users/sravanreddy29/Desktop/untitled folder 6"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -resolve-src-symlinks -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip "/Users/sravanreddy29/Desktop/untitled folder 6/test.png" "/Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Build/Products/Release-iphonesimulator/Tableview.app"36"3E19C8C7-36DB-4DA2-92CE-FB994135A8FF-
+
+CGenerateDSYMFile "/Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Build/Products/Release-iphonesimulator/Tableview.app.dSYM" "/Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Build/Products/Release-iphonesimulator/Tableview.app/Tableview"
+s370561817.055465
+e370561817.237988
+r1
+xGenerateDSYMFile
+x/Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Build/Products/Release-iphonesimulator/Tableview.app.dSYM
+x/Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Build/Products/Release-iphonesimulator/Tableview.app/Tableview
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection129"Generating /Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Build/Products/Release-iphonesimulator/Tableview.app.dSYM92410e195316b641^b7ec3c195316b641^---0#0#0#-19%DVTDocumentLocation2@138"file://localhost/Users/sravanreddy29/Desktop/untitled%20folder%206/Products/Test/Build/Products/Release-iphonesimulator/Tableview.app.dSYM000000000080d041^776"GenerateDSYMFile Products/Test/Build/Products/Release-iphonesimulator/Tableview.app.dSYM Products/Test/Build/Products/Release-iphonesimulator/Tableview.app/Tableview    cd "/Users/sravanreddy29/Desktop/untitled folder 6"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/dsymutil "/Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Build/Products/Release-iphonesimulator/Tableview.app/Tableview" -o "/Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Build/Products/Release-iphonesimulator/Tableview.app.dSYM"36"0033F5BC-2DCD-4F85-ABB7-FCEE8730B838-
+
+CLd "/Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Build/Products/Release-iphonesimulator/Tableview.app/Tableview" normal i386
+s370561816.473378
+e370561817.048614
+r1
+xLd
+x/Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Build/Products/Release-iphonesimulator/Tableview.app/Tableview
+xnormal
+xi386
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection128"Link /Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Build/Products/Release-iphonesimulator/Tableview.app/Tableview1c4279185316b641^ac730c195316b641^---0#0#0#--1350"Ld Products/Test/Build/Products/Release-iphonesimulator/Tableview.app/Tableview normal i386    cd "/Users/sravanreddy29/Desktop/untitled folder 6"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk "-L/Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Build/Products/Release-iphonesimulator" "-F/Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Build/Products/Release-iphonesimulator" -filelist "/Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Build/Intermediates/Test.build/Release-iphonesimulator/Tableview.build/Objects-normal/i386/Tableview.LinkFileList" -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -Xlinker -no_implicit_dylibs -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -framework UIKit -framework Foundation -framework CoreGraphics -o "/Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Build/Products/Release-iphonesimulator/Tableview.app/Tableview"36"BCCB926B-430D-4663-AB71-5F51CE005CD5-
+
+CProcessInfoPlistFile "/Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Build/Products/Release-iphonesimulator/Tableview.app/Info.plist" Test/Test-Info.plist
+s370561814.229122
+e370561814.237892
+r1
+xProcessInfoPlistFile
+x/Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Build/Products/Release-iphonesimulator/Tableview.app/Info.plist
+xTest/Test-Info.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection28"Process Test/Test-Info.plistd4b53a165316b641^1fb945165316b641^---0#0#0#-19%DVTDocumentLocation2@87"file://localhost/Users/sravanreddy29/Desktop/untitled%20folder%206/Test/Test-Info.plist0000000000000000^749"ProcessInfoPlistFile Products/Test/Build/Products/Release-iphonesimulator/Tableview.app/Info.plist Test/Test-Info.plist    cd "/Users/sravanreddy29/Desktop/untitled folder 6"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Test/Test-Info.plist -genpkginfo "/Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Build/Products/Release-iphonesimulator/Tableview.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Build/Products/Release-iphonesimulator/Tableview.app/Info.plist"36"1289405E-6DA4-4BA4-A4C8-839928D7775C-
+
+CProcessPCH "/Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Build/Intermediates/PrecompiledHeaders/Test-Prefix-edlmxmzdqsxvnsfitnkbboczbezb/Test-Prefix.pch.pth" Test/Test-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s370561814.246108
+e370561815.967150
+r1
+xProcessPCH
+x/Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Build/Intermediates/PrecompiledHeaders/Test-Prefix-edlmxmzdqsxvnsfitnkbboczbezb/Test-Prefix.pch.pth
+xTest/Test-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection31"Precompile Test/Test-Prefix.pcha01a3f165316b641^f296f7175316b641^---0#0#0#-19%DVTDocumentLocation2@87"file://localhost/Users/sravanreddy29/Desktop/untitled%20folder%206/Test/Test-Prefix.pch0000000000000000^3564"ProcessPCH Products/Test/Build/Intermediates/PrecompiledHeaders/Test-Prefix-edlmxmzdqsxvnsfitnkbboczbezb/Test-Prefix.pch.pth Test/Test-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/sravanreddy29/Desktop/untitled folder 6"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -fvisibility=hidden -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Build/Intermediates/Test.build/Release-iphonesimulator/Tableview.build/Tableview-generated-files.hmap" "-I/Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Build/Intermediates/Test.build/Release-iphonesimulator/Tableview.build/Tableview-own-target-headers.hmap" "-I/Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Build/Intermediates/Test.build/Release-iphonesimulator/Tableview.build/Tableview-all-target-headers.hmap" -iquote "/Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Build/Intermediates/Test.build/Release-iphonesimulator/Tableview.build/Tableview-project-headers.hmap" "-I/Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Build/Products/Release-iphonesimulator/include" "-I/Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Build/Intermediates/Test.build/Release-iphonesimulator/Tableview.build/DerivedSources/i386" "-I/Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Build/Intermediates/Test.build/Release-iphonesimulator/Tableview.build/DerivedSources" "-F/Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Build/Products/Release-iphonesimulator" -DNS_BLOCK_ASSERTIONS=1 --serialize-diagnostics "/Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Build/Intermediates/PrecompiledHeaders/Test-Prefix-edlmxmzdqsxvnsfitnkbboczbezb/Test-Prefix.pch.dia" -c "/Users/sravanreddy29/Desktop/untitled folder 6/Test/Test-Prefix.pch" -o "/Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Build/Intermediates/PrecompiledHeaders/Test-Prefix-edlmxmzdqsxvnsfitnkbboczbezb/Test-Prefix.pch.pth" -MMD -MT dependencies -MF "/Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Build/Intermediates/PrecompiledHeaders/Test-Prefix-edlmxmzdqsxvnsfitnkbboczbezb/Test-Prefix.pch.d"36"127A39C2-5537-4F7D-B461-551733356A5C-
+
+CProcessPCH "/Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Index/PrecompiledHeaders/Test-Prefix-hduskgebbfdvhacnnglhfxakxqmd_ast/Test-Prefix.pch.pth" Test/Test-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CTouch "/Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Build/Products/Release-iphonesimulator/Tableview.app"
+s370561817.550782
+e370561817.610389
+r1
+xTouch
+x/Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Build/Products/Release-iphonesimulator/Tableview.app
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection119"Touch /Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Build/Products/Release-iphonesimulator/Tableview.appa20c8d195316b641^ee419c195316b641^---0#0#0#--462"Touch Products/Test/Build/Products/Release-iphonesimulator/Tableview.app    cd "/Users/sravanreddy29/Desktop/untitled folder 6"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/sravanreddy29/Desktop/untitled folder 6/Products/Test/Build/Products/Release-iphonesimulator/Tableview.app"36"DD2F0FC4-0AA0-43DC-826B-FBE84C9E8D7F-
+
